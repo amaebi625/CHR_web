@@ -1,0 +1,3459 @@
+=== Gene: GZMB ===
+1. Arterioscler Thromb Vasc Biol. 2013 Jun;33(6):1418-26. doi: 
+10.1161/ATVBAHA.112.301169. Epub 2013 Mar 28.
+
+Gene expression signatures of coronary heart disease.
+
+Joehanes R(1), Ying S, Huan T, Johnson AD, Raghavachari N, Wang R, Liu P, 
+Woodhouse KA, Sen SK, Tanriverdi K, Courchesne P, Freedman JE, O'Donnell CJ, 
+Levy D, Munson PJ.
+
+Author information:
+(1)The National Heart, Lung, and Blood Institute's Framingham Heart Study, 
+Framingham, MA 01702, USA.
+
+OBJECTIVE: To identify transcriptomic biomarkers of coronary heart disease (CHD) 
+in 188 cases with CHD and 188 age- and sex-matched controls who were 
+participants in the Framingham Heart Study.
+APPROACH AND RESULTS: A total of 35 genes were differentially expressed in cases 
+with CHD versus controls at false discovery rate<0.5, including GZMB, TMEM56, 
+and GUK1. Cluster analysis revealed 3 gene clusters associated with CHD, 2 
+linked to increased erythrocyte production and a third to reduced natural killer 
+and T cell activity in cases with CHD. Exon-level results corroborated and 
+extended the gene-level results. Alternative splicing analysis suggested that 
+GUK1 and 38 other genes were differentially spliced in cases with CHD versus 
+controls. Gene Ontology analysis linked ubiquitination and T-cell-related 
+pathways with CHD.
+CONCLUSIONS: Two bioinformatically defined groups of genes show consistent 
+associations with CHD. Our findings are consistent with the hypotheses that 
+hematopoesis is upregulated in CHD, possibly reflecting a compensatory 
+mechanism, and that innate immune activity is disrupted in CHD or altered by its 
+treatment. Transcriptomic signatures may be useful in identifying pathways 
+associated with CHD and point toward novel therapeutic targets for its treatment 
+and prevention.
+
+DOI: 10.1161/ATVBAHA.112.301169
+PMCID: PMC3684247
+PMID: 23539218 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures No conflicts of interest, financial 
+or otherwise, are declared by the authors.
+
+=== Gene: CD86 ===
+1. Immunopharmacol Immunotoxicol. 2022 Apr;44(2):178-185. doi: 
+10.1080/08923973.2021.2025245. Epub 2022 Jan 12.
+
+Immunosuppressive effects of dimethyl fumarate on dendritic cell maturation and 
+migration: a potent protector for coronary heart disease.
+
+Sun Z(1)(2), Liu X(1), Liu Y(2), Zhao X(3), Zang X(2), Wang F(1).
+
+Author information:
+(1)Department of Cardiology, Shanghai General Hospital of Nanjing Medical 
+University, Shanghai, China.
+(2)Department of Cardiology, The Affiliated Changzhou No.2 People's Hospital of 
+Nanjing Medical University, Changzhou, China.
+(3)Department of Cardiology, Zhujiang Hospital, Southern Medical University, 
+Guangzhou, China.
+
+Dendritic cells (DCs), as a bridge between innate and adaptive immunity, play 
+key roles in atherogenesis, particularly in plaque rupture, the underlying 
+pathophysiologic cause of myocardial infarction. Targeting DC functions, 
+including maturation and migration to atherosclerotic plaques, may be a novel 
+therapeutic approach to atherosclerotic disease. Dimethyl fumarate (DMF), an 
+agent consisting of a combination of fumaric acid esters, in current study were 
+found to be able to suppress DC maturation by reducing the expression of 
+costimulatory molecules and MHC class II and by blocking cytokine secretion. In 
+addition, DMF efficiently inhibited the migration of activated DCs in vitro and 
+in vivo by reducing the expression of chemokine receptor 7 (CCR7). Additionally, 
+DMF efficiently inhibited the expression of the costimulatory molecule CD86, as 
+well as the chemokine receptor CCR7 and the C-X-C motif chemokine receptor 4 
+(CXCR4), in healthy donor-derived purified DCs that had been stimulated by 
+ST-segment elevation myocardial infarction (STEMI) patient serum. This study 
+points to the potent therapeutic value of DMF for protecting against 
+cardiovascular disease by suppressing DC functions.
+
+DOI: 10.1080/08923973.2021.2025245
+PMID: 35016591 [Indexed for MEDLINE]
+
+
+2. Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2010 May;35(5):476-82. doi: 
+10.3969/j.issn.1672-7347.2010.05.012.
+
+[Dendritic cells and coronary collateral circulation in coronary heart disease].
+
+[Article in Chinese]
+
+Li C(1), Liu W, Yi J, Li Z, Pu X, Yang T, Xie Q, Mo L, Chen X.
+
+Author information:
+(1)Department of Cardiology, Xiangya Hospital, Central South University, 
+Changsha 410008, China.
+
+OBJECTIVE: To determine the relationship between the number,phenotype and 
+functional status of dendritic cells (DCs) and coronary collateral circulation 
+(CCC) in coronary heart disease (CHD).
+METHODS: Forty patients with severe coronary stenosis were recruited and divided 
+into a CCC formation group (Group A, n=22) and a non-CCC formation group (Group 
+B, n=18). Density gradient centrifugation was applied to separate the 
+mononuclear cells (MNCs) from coronary artery blood samples, and MNCs were 
+cultured and proliferated in vitro. The morphology of DCs was observed under 
+converted microscope. The number of harvested cells and DCs was counted by 
+hematocytometer. Flow cytometry was applied to investigate the phenotype and the 
+mean fluorescence intensity (MFI). Mixed lymphocyte reaction was used to test 
+the function of DCs to stimulate the proliferation of T lymphocytes. Stimulation 
+index (SI) was calculated and compared.
+RESULTS: (1) After in vitro proliferation, DCs were cultured successfully from 
+the mononuclear cells from coronary artery blood samples and the morphology of 
+DCs was not different in the 2 groups. (2) The number of mononuclear cells (MNC 
+no) was (3.95+/-1.41)*10(6), in the CCC group and (2.76+/-0.92)*10(6) in the 
+non-CCC group. The MNC number was significantly increased in the CCC group 
+(P=0.003). (3) The number of DCs was (1.54+/-0.96)*10(6) in the CCC group, and 
+(0.99+/-0.46)*10(6) in the non-CCC group (P=0.033). (4)There was no statistical 
+significance in the percent of CD1a+, CD1a+CD80+, CD1a+CD83+, CD1a+CD86+ cells, 
+and MFI in the 2 groups (P>0.05). (5) SI was 4.96+/-2.30 in the CCC group, 
+whereas 2.66+/-1.04 in the non-CCC group. The SI in the CCC group increased 
+significantly(P=0.0003).
+CONCLUSION: In CHD patients with severe coronary stenosis, patients with CCC 
+formation have higher number of DCs and stronger potential of T lymphocyte 
+stimulation.
+
+DOI: 10.3969/j.issn.1672-7347.2010.05.012
+PMID: 20543472 [Indexed for MEDLINE]
+
+
+3. Basic Clin Pharmacol Toxicol. 2009 Feb;104(2):101-6. doi: 
+10.1111/j.1742-7843.2008.00340.x. Epub 2008 Dec 16.
+
+Effects of pravastatin on the function of dendritic cells in patients with 
+coronary heart disease.
+
+Li X(1), Liu C, Cui J, Dong M, Peng CH, Li QS, Cheng JL, Jiang SL, Tian Y.
+
+Author information:
+(1)Department of Cardiology, The Second Affiliated Hospital of Harbin Medical 
+University, Harbin, China.
+
+The aim of the study was to investigate the functional profile of dendritic 
+cells in patients with coronary heart disease and the effects of pravastatin on 
+this. Forty-eight patients with coronary heart disease were divided into three 
+groups: 16 treated with pravastatin 10 mg/day, 16 treated with pravastatin 20 
+mg/day and 16 not treated with pravastatin. Dendritic cells from 48 patients 
+with coronary heart disease (before and 4 weeks after the treatment) and 16 
+healthy individuals were derived from peripheral blood. CD86 of dendritic cells 
+was assessed by flow cytometry. Immunostimulatory capacity of dendritic cells 
+was measured by mixed lymphocyte reaction. The levels of cytokines in the medium 
+of mixed lymphocyte reaction were analysed. Blood lipids and high-sensitivity 
+C-reactive protein were measured. Compared to normal group, more CD86+ dendritic 
+cells were expressed in coronary heart disease and greater immunostimulatory 
+capacity of dendritic cells in coronary heart disease was demonstrated. T 
+lymphocytes in coronary heart disease in mixed lymphocyte reaction secreted 
+higher levels of pro-inflammation cytokines and lower levels of 
+anti-inflammation cytokines. CD86 expression significantly correlated with 
+C-reactive protein, but did not correlate with low-density lipoprotein 
+cholesterol. Both dosages of pravastatin markedly inhibited the function of 
+dendritic cells and lowered C-reactive protein, which is independent of plasma 
+cholesterol lowering. The anti-inflammatory effect of pravastatin showed no 
+obvious difference between the two dosage groups. In conclusion, dendritic cells 
+were activated in coronary heart disease and dendritic cell-mediated immune 
+mechanisms may be involved in the pathogenesis of coronary heart disease. 
+Pravastatin can inhibit dendritic cell activation, which is independent of 
+plasma cholesterol lowering. Pravastatin in different doses showed no apparent 
+differences in the inhibition of dendritic cell functions.
+
+DOI: 10.1111/j.1742-7843.2008.00340.x
+PMID: 19143751 [Indexed for MEDLINE]
+
+
+4. Int J Mol Med. 2008 Jun;21(6):697-704.
+
+Expression profiling of macrophages from subjects with atherosclerosis to 
+identify novel susceptibility genes.
+
+Hägg DA(1), Jernås M, Wiklund O, Thelle DS, Fagerberg B, Eriksson P, Hamsten A, 
+Olsson B, Carlsson B, Carlsson LM, Svensson PA.
+
+Author information:
+(1)Department of Molecular and Clinical Medicine, Sahlgrenska Academy, 
+University of Göteborg, Göteborg, Sweden. daniel.hagg@medic.gu.se
+
+Although a number of environmental risk factors for atherosclerosis have been 
+identified, heredity seems to be a significant independent risk factor. The aim 
+of our study was to identify novel susceptibility genes for atherosclerosis. The 
+screening process consisted of three steps. First, expression profiles of 
+macrophages from subjects with atherosclerosis were compared to macrophages from 
+control subjects. Secondly, the subjects were genotyped for promoter region 
+polymorphisms in genes with altered gene expression. Thirdly, a population of 
+subjects with coronary heart disease and control subjects were genotyped to test 
+for an association with identified polymorphisms that affected gene expression. 
+Twenty-seven genes were differentially expressed in both macrophages and foam 
+cells from subjects with atherosclerosis. Three of these genes, IRS2, CD86 and 
+SLC11A1 were selected for further analysis. Foam cells from subjects homozygous 
+for the C allele at the -765C-->T SNP located in the promoter region of IRS2 had 
+increased gene expression compared to foam cells from subjects with the nonCC 
+genotype. Also, macrophages and foam cells from subjects homozygous for allele 2 
+at a repeat element in the promoter region of SLC11A1 had increased gene 
+expression compared to macrophages and foam cells from subjects with the non22 
+genotype. Genotyping of 512 pairs of subjects with coronary heart disease (CHD) 
+and matched controls revealed that subjects homozygous for C of the IRS2 SNP had 
+an increased risk for CHD; odds ratio 1.43, p=0.010. Immunohistochemical 
+staining of human carotid plaques showed that IRS2 expression was localised to 
+macrophages and endothelial cells in vivo. Our method provides a reliable 
+approach for identifying susceptibility genes for atherosclerosis, and we 
+conclude that elevated IRS2 gene expression in macrophages may be associated 
+with an increased risk of CHD.
+
+PMID: 18506362 [Indexed for MEDLINE]
+
+=== Gene: CD3D ===
+No results found.
+
+
+=== Gene: MMP9 ===
+1. PeerJ. 2025 Jul 3;13:e19618. doi: 10.7717/peerj.19618. eCollection 2025.
+
+Serum miR-15a-5p may predict recurrence of atrial fibrillation after catheter 
+ablation: a single center retrospective study.
+
+Ruan ZB(1), Peng Q(2), Sun XJ(3), Wang F(1), Zhu L(1).
+
+Author information:
+(1)The Affiliated Taizhou People's Hospital of Nanjing Medical University, 
+Taizhou, China.
+(2)Cardiology, Nanjing University of Chinese Medicine, Taizhou, China.
+(3)Dalian Municipal Central Hospital, Dalian, China.
+
+BACKGROUND: There is still a lack of an easily obtainable, sensitive, and 
+specific biomarker for predicting the recurrence of atrial fibrillation (AF) 
+after radiofrequency catheter ablation (RFCA). In the present study, we aimed to 
+investigate the predictive value of serum miR-15a-5p as a biomarker of 
+recurrence in AF patients undergoing RFCA.
+METHODS: Forty-three consecutive AF patients indicated for RFCA and 20 non-AF 
+subjects were enrolled. The levels of serum miR-15a-5p and PICP, PIIINP, MMP-9, 
+and sST2 were detected. Then, linear regression analysis, binary logistic 
+regression analysis, and receiver operating characteristic (ROC) analysis were 
+used to investigate the correlation between the expression level of serum 
+miR-15a-5p and the degree of myocardial fibrosis and assess the value of serum 
+miR-15a-5p for predicting postoperative recurrence of AF.
+RESULTS: There was a significant difference in age, CK-MB, uric acid (UA), left 
+atrial diameter (LAD), history of coronary heart disease (CAD), and left 
+ventricular ejection fraction (LVEF) between the AF group and the control group 
+(p < 0.05). Compared with the control group, the level of serum miR-15a-5p, 
+MMP-9, PICP, PIIINP, and sST2 was higher in the AF group (p < 0.05 or p < 0.01). 
+miR-15a-5p had a significant and positive relationship with the level of the 
+four serum fibrosis biomarkers (p < 0.05). Compared with paroxysmal AF, 
+persistent AF had a higher increase in serum miR-15a-5p expression level 
+(p < 0.001). Compared with the non-recurrent, the expression level of serum 
+miR-15a-5p in the recurrent patients was significantly increased (p < 0.01). ROC 
+analysis showed that the AUC of serum miR-15a-5p for predicting AF recurrence 
+was 0.823 (95% CI [0.668-0.979], p < 0.01), and the cutoff value was 1.5224, 
+with a sensitivity of 71.4% and specificity of 86.1%.
+CONCLUSIONS: The high expression of serum miR-15a-5p in AF patients was related 
+to the degree of myocardial fibrosis and the recurrence of AF after RFCA, which 
+indicated that serum miR-15a-5p could be used as a serum biomarker for 
+predicting AF recurrence after RFCA.
+
+©2025 Ruan et al.
+
+DOI: 10.7717/peerj.19618
+PMCID: PMC12229146
+PMID: 40620773 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.
+
+
+2. Acta Neuropsychiatr. 2025 Mar 21;37:e49. doi: 10.1017/neu.2024.40.
+
+The genetic association between major depressive disorder and coronary heart 
+disease.
+
+Shi Y(1), Xu F(2), Wei Y(1), Zeng D(1), He S(1), Huang J(1)(3), Li H(1)(3)(4).
+
+Author information:
+(1)Department of Psychiatry, Shanghai Mental Health Center, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(2)Schizophrenia Program, Shanghai Mental Health Center, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(3)Shanghai Key Laboratory of Psychotic Disorders, Shanghai Mental Health 
+Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(4)Shanghai Clinical Research Center for Mental Health, Shanghai, China.
+
+Major depressive disorder (MDD) and coronary heart disease (CHD) can both cause 
+significant morbidity and mortality. The association of MDD and CHD has long 
+been identified, but the mechanisms still require further investigation. Seven 
+mRNA microarray datasets containing samples from patients with MDD and CHD were 
+downloaded from Gene Expression Omnibus. Combined matrixes of MDD and CAD were 
+constructed for subsequent analysis. Differentially expressed genes (DEGs) were 
+identified. Functional enrichment analyses based on shared DEGs were conducted 
+to identify pivotal pathways. A protein-protein network was also applied to 
+further investigate the functional interaction. Results showed that 24 
+overlapping genes were identified. Enrichment analysis indicated that the shared 
+genes are mainly associated with immune function and ribosome biogenesis. The 
+functional interactions of shared genes were also demonstrated by PPI network 
+analysis. In addition, three hub genes including MMP9, S100A8, and RETN were 
+identified. Our results indicate that MDD and CHD have a genetic association. 
+Genes relevant to immune function, especially IL-17 signalling pathway may be 
+involved in the pathogenesis of MDD and CHD.
+
+DOI: 10.1017/neu.2024.40
+PMID: 40114590 [Indexed for MEDLINE]
+
+
+3. Am J Transl Res. 2025 Feb 15;17(2):708-721. doi: 10.62347/NWAZ5584.
+eCollection  2025.
+
+Efficacy and safety of Guanxin Danshen dropping pills for the treatment of 
+angina pectoris: a meta-analysis.
+
+Yu L(1), Lu S(1), Chen M(2).
+
+Author information:
+(1)Department of Internal Medicine-Cardiovascular, The Second Affiliated 
+Hospital of Guangxi Medical University Nanning 530000, Guangxi Zhuang Autonomous 
+Region, China.
+(2)Intensive Care Unit, The Second Affiliated Hospital of Guangxi Medical 
+University Nanning 530000, Guangxi Zhuang Autonomous Region, China.
+
+OBJECTIVE: To evaluate the effect of Guanxin Danshen dropping pills (GDDP) for 
+treating angina pectoris (AP) in patients with coronary heart disease (CHD).
+METHODS: Randomized controlled trials (RCTs) evaluating GDDP for AP in CHD 
+patients were systematically screened from PubMed, Cochrane Library, Web of 
+Science, China Biology Medicine disc (CBM), China National Knowledge 
+Infrastructure (CNKI), China Science and Technology Journal Database (VIP), and 
+WanFang databases from database inception to March 2023. Bias assessment 
+followed the Cochrane Manual 5.1 criteira, and data analysis was performed using 
+RevMan 5.3.
+RESULTS: Twenty articles were included in the meta-analysis. Compared to 
+standard therapy, GDDP exhibited a superior efficacy in treating AP (P < 0.01), 
+significantly improved electrocardiogram (ECG) outcomes in AP patients (P < 
+0.00001), reduced frequency of AP episodes (P < 0.01), lowered incidence of 
+cardiovascular events in AP patients (P = 0.01) and significantly elevated 
+hypersensitive C-reactive protein (hs-CRP) and interleukin-18 (IL-18) levels 
+(all P < 0.01). However, it did not significantly affect the levels of 
+interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α), or matrix 
+metalloproteinase-9 (MMP-9) (all P > 0.05). GDDP also reduced total cholesterol 
+(TC), triglycerides (TG), low-density lipoprotein cholesterol (LDL-C), and 
+high-density lipoprotein cholesterol (HDL-C) levels (all P < 0.01) as well as 
+whole blood viscosity (WBV), plasma viscosity, fibrinogen and hematocrit levels 
+(all P < 0.01). Additionally, the combination of GDDP and conventional CHD 
+treatment was found to be safe.
+CONCLUSION: Combining GDDP with conventional western medicine was more effective 
+than either treatment alone in reducing cardiovascular events, alleviating 
+angina symptoms, improving inflammation, and optimizing hemorheological 
+parameters, without increasing side effects. These findings underscore GDDP's 
+use as a complementary treatment for CHD.
+
+AJTR Copyright © 2025.
+
+DOI: 10.62347/NWAZ5584
+PMCID: PMC11909518
+PMID: 40092109
+
+Conflict of interest statement: None.
+
+
+4. Pak J Pharm Sci. 2025 Jan-Feb;38(1):77-82.
+
+Efficacy of ticagrelor and clopidogrel in treating unstable angina and their 
+effects on serum inflammatory factors.
+
+Qin D(1), Ren Y(2), Zhang N(2), Yang X(2), Chen Z(2), Zhao C(2).
+
+Author information:
+(1)Department of Pharmacy, Qiqihar Second Hospital, China.
+(2)Department of Cardiology, the Third Affiliated Hospital of Qiqihar Medical 
+College, China.
+
+To evaluate the comparative efficacy of Ticagrelor and Clopidogrel in treating 
+patients with coronary heart disease and unstable angina, as well as their 
+effects on serum inflammatory factors, thereby providing a solid foundation for 
+future clinical diagnosis and treatment. The frequency of angina attacks in the 
+Ticagrelor group was lower than in the Clopidogrel group (P<0.05). The duration 
+of angina and shortness of breath were also shorter in the Ticagrelor group 
+(P<0.05). The levels of C-reactive protein (CRP), interleukin-6 (IL-6), 
+interleukin-18 (IL-18), matrix metalloproteinase-9 (MMP-9), 
+lipoprotein-associated phospholipase A2 (Lp-PLA2), myeloperoxidase (MPO), type 1 
+tissue plasminogen activator inhibitor (tPAI-1), homocysteine (Hcy), 
+endothelin-1 (ET-1), tumor necrosis factor-alpha (TNF-α), platelet-derived 
+growth factor (PDGF), brain natriuretic peptide (BNP), soluble CD40 ligand 
+(sCD40L), soluble vascular cell adhesion molecule-1 (sVCAM-1), soluble 
+intercellular adhesion molecule (sLCAM-1), low-density lipoprotein cholesterol 
+(LDL-C), total cholesterol (TC), and triglycerides (TG), as well as the 
+incidence of MACCE events, were all lower in the Ticagrelor group compared to 
+the Clopidogrel group (P<0.05), while high-density lipoprotein cholesterol 
+(HDL-C) levels and overall efficacy were higher in the Ticagrelor group 
+(P<0.05). Ticagrelor demonstrates superior therapeutic efficacy compared to 
+Clopidogrel in patients with coronary heart disease and unstable angina, 
+effectively reducing serum inflammatory factor levels.
+
+PMID: 40089933 [Indexed for MEDLINE]
+
+
+5. J Med Biochem. 2025 Jan 24;44(1):46-54. doi: 10.5937/jomb0-51326.
+
+Effects of colchicine adjuvant therapy on disease control, serum NALP3, sICAM-1, 
+MMP-9 and MMP-13 in patients with coronary heart disease and acute gout attack.
+
+Bingxun W(1), Yongqing L(1), Wenya H(2), Bing L(1), Pang J(3), Wenwen Y(3), 
+Zengcai M(1), Zesheng X(1).
+
+Author information:
+(1)Cangzhou Central Hospital, Department of Cardiology, Cangzhou, China.
+(2)Hebei Medical University, Cangzhou Central Hospital, Shijiazhuang, China.
+(3)Cangzhou Central Hospital, Department of Rheumatology, Cangzhou, China.
+
+BACKGROUND: To investigate the impact of colchicine adjuvant therapy on disease 
+control and serum levels of nucleotide-binding oligomerization domain-like 
+receptor (NALP) 3, soluble intercellular adhesion molecule (sICAM)-1, matrix 
+metalloproteinase (MMP)-9, and MMP13 in patients with coronary heart disease 
+(CHD) complicated by acute gout attacks.
+METHODS: Ninety-two patients with CHD and acute gout attacks admitted to our 
+hospital from October 2021 to January 2023 were randomly divided into an 
+observation group and a control group, with 46 patients in each group. The 
+control group received conventional treatment, while the observation group 
+received colchicine adjuvant therapy on top of the control group's treatment for 
+7 days. Clinical efficacy in both groups was assessed. Before and after 
+treatment, cardiac function indicators (left ventricular ejection fraction 
+(LVEF), left ventricular end-diastolic diameter (LVEDD), left ventricular 
+posterior wall thickness (LVPWT)), vascular endothelial function indicators 
+(sICAM-1, endothelin-1 (ET-1), and vascular endothelial growth factor (VEGF)), 
+inflammatory factors (NALP3, MMP-9, MMP-13) levels, changes in immune cell 
+populations (CD3+ lymphocytes, CD3+CD4+ lymphocytes, CD3+CD8+ lymphocytes ratio, 
+and CD3+CD4+/CD3+CD8+ ratio) were compared, and the incidence of adverse 
+reactions was recorded. Three months after treatment, the occurrence of major 
+adverse cardiovascular events was also recorded.
+RESULTS: The total effective rate in the observation group was significantly 
+higher than that in the control group (93.48% vs 79.07%) (P<0.05). After 
+treatment, the levels of NALP3, MMP-9, and MMP-13 in both groups decreased, with 
+the observation group being lower than the control group (P<0.05). After 
+treatment, LVPWT and LVEDD levels in the observation group were lower than those 
+in the control group, and LVEF was higher (P<0.05). After treatment, the levels 
+of ET-1 and sICAM-1 in the observation group were lower than those in the 
+control group, and VEGF levels were higher (P<0.05). After treatment, the 
+proportions of CD3+ lymphocytes, CD3+CD4+ lymphocytes, and CD3+CD4+/CD3+CD8+ 
+ratio were significantly higher in the observation group than in the control 
+group (P<0.05). There was no significant difference in the incidence of adverse 
+reactions between the two groups (P>0.05). The occurrence of major adverse 
+cardiovascular events in the observation group was lower than that in the 
+control group (2.17% vs 13.04%).
+CONCLUSIONS: Colchicine adjuvant therapy improves the efficacy of CHD patients 
+with acute gout attacks, helps improve cardiac function and vascular endothelial 
+function, reduces serum levels of NALP3, sICAM-1, MMP-9, and MMP-13, enhances 
+patient immunity, and controls disease progression.
+
+Publisher: UVOD: Cilj je bio da se istraži uticaj adjuvantne terapije kolhicinom 
+na kontrolu bolesti i nivoe u serumu receptora sličnog domenu oligomerizacije 
+koji se vezuje za nukleotide (NALP) 3, rastvorljivog intercelularnog adhezionog 
+molekula (sICAM)-1, matriks metaloproteinaze (MMP)-9 i MMP-13 kod pacijenata sa 
+koronarnom bolešču srca (CHD) komplikovanom akutnim napadima gihta.
+METODE: Devedeset i dva pacijenta sa KBS i akutnim napadima gihta primljena u 
+našu bolnicu od oktobra 2021. do januara 2023. nasumično su podeljena u 
+posmatračku i kontrolnu grupu, sa po 46 pacijenata u svakoj grupi. Kontrolna 
+grupa je primila konvencionalni tretman, dok je posmatračka grupa primala 
+pomočnu terapiju kolhicinom pored tretmana kontrolne grupe tokom 7 dana. 
+Procenjena je klinička efikasnost u obe grupe. Pre i posle tretmana, indikatori 
+srčane funkcije (ejekciona frakcija leve komore (LVEF), end-dijastolni prečnik 
+leve komore (LVEDD), debljina zadnjeg zida leve komore (LVPVT)), indikatori 
+funkcije vaskularnog endotela (sICAM-1, endotelin-1 ( ET-1) i faktor rasta 
+vaskularnog endotela (VEGF)), nivoi inflamatornih faktora (NALP3, MMP-9, 
+MMP-13), promene u populaciji imunih čelija (CD3+ limfociti, CD3 + CD4+ 
+limfociti, odnos CD3+CD8+ limfocita, i CD3 + CD4+/CD3+CD8+ odnos) i zabeležena 
+je učestalost neželjenih reakcija. Tri meseca nakon tretmana zabeležena je i 
+pojava velikih neželjenih kardiovaskularnih događaja.
+REZULTATI: Ukupna efektivna stopa u posmatranoj grupi bila je značajno viša od 
+one u kontrolnoj grupi (93,48% naspram 79,07%) (P<0,05). Nakon tretmana, nivoi 
+NALP3, MMP-9 i MMP-13 u obe grupe su se smanjili, pri čemu je posmatrana grupa 
+bila niža od kontrolne grupe (P<0,05). Nakon tretmana, nivoi LVPVT i LVEDD u 
+posmatranoj grupi bili su niži od onih u kontrolnoj grupi, a LVEF viši (P<0,05). 
+Nakon tretmana, nivoi ET-1 i sICAM-1 u posmatranoj grupi bili su niži od onih u 
+kontrolnoj grupi, a nivoi VEGF-a viši (P<0,05). Nakon tretmana, proporcije CD3+ 
+limfocita, CD3 + CD4+ limfocita i odnos CD3 + CD4+/CD3 + CD8+ bili su značajno 
+veči u posmatranoj grupi nego u kontrolnoj grupi (P<0,05). Nije bilo značajne 
+razlike u incidenci neželjenih reakcija između dve grupe (P>0,05). Pojava 
+velikih neželjenih kardiovaskularnih događaja u posmatranoj grupi bila je manja 
+nego u kontrolnoj grupi (2,17% prema 13,04%).
+ZAKLJUČAK: Adjuvantna terapija kolhicinom poboljšava efikasnost pacijenata sa 
+KBS sa akutnim napadima gihta, pomaže u poboljšanju funkcije srca i vaskularnog 
+endotela, smanjuje nivoe NALP3, sICAM-1, MMP-9 i MMP-13 u serumu, poboljšava 
+imunitet pacijenata i kontroliše progresiju bolesti.
+
+2025 Wang Bingxun, Liu Yongqing, Han Wenya, Li Bing, Jie Pang, Yang Wenwen, Ma 
+Zengcai, Xu Zesheng, published by CEON/CEES.
+
+DOI: 10.5937/jomb0-51326
+PMCID: PMC11846654
+PMID: 39991178
+
+Conflict of interest statement: All the authors declare that they have no 
+conflict of interest in this work.Conflict of Interest: The authors stated that 
+they have no conflicts of interest regarding the publication of this article.
+
+=== Gene: CD40 ===
+1. Pak J Pharm Sci. 2025 Jan-Feb;38(1):77-82.
+
+Efficacy of ticagrelor and clopidogrel in treating unstable angina and their 
+effects on serum inflammatory factors.
+
+Qin D(1), Ren Y(2), Zhang N(2), Yang X(2), Chen Z(2), Zhao C(2).
+
+Author information:
+(1)Department of Pharmacy, Qiqihar Second Hospital, China.
+(2)Department of Cardiology, the Third Affiliated Hospital of Qiqihar Medical 
+College, China.
+
+To evaluate the comparative efficacy of Ticagrelor and Clopidogrel in treating 
+patients with coronary heart disease and unstable angina, as well as their 
+effects on serum inflammatory factors, thereby providing a solid foundation for 
+future clinical diagnosis and treatment. The frequency of angina attacks in the 
+Ticagrelor group was lower than in the Clopidogrel group (P<0.05). The duration 
+of angina and shortness of breath were also shorter in the Ticagrelor group 
+(P<0.05). The levels of C-reactive protein (CRP), interleukin-6 (IL-6), 
+interleukin-18 (IL-18), matrix metalloproteinase-9 (MMP-9), 
+lipoprotein-associated phospholipase A2 (Lp-PLA2), myeloperoxidase (MPO), type 1 
+tissue plasminogen activator inhibitor (tPAI-1), homocysteine (Hcy), 
+endothelin-1 (ET-1), tumor necrosis factor-alpha (TNF-α), platelet-derived 
+growth factor (PDGF), brain natriuretic peptide (BNP), soluble CD40 ligand 
+(sCD40L), soluble vascular cell adhesion molecule-1 (sVCAM-1), soluble 
+intercellular adhesion molecule (sLCAM-1), low-density lipoprotein cholesterol 
+(LDL-C), total cholesterol (TC), and triglycerides (TG), as well as the 
+incidence of MACCE events, were all lower in the Ticagrelor group compared to 
+the Clopidogrel group (P<0.05), while high-density lipoprotein cholesterol 
+(HDL-C) levels and overall efficacy were higher in the Ticagrelor group 
+(P<0.05). Ticagrelor demonstrates superior therapeutic efficacy compared to 
+Clopidogrel in patients with coronary heart disease and unstable angina, 
+effectively reducing serum inflammatory factor levels.
+
+PMID: 40089933 [Indexed for MEDLINE]
+
+
+2. Redox Biol. 2025 Mar;80:103520. doi: 10.1016/j.redox.2025.103520. Epub 2025
+Jan  29.
+
+CD40-TRAF6 inhibition suppresses cardiovascular inflammation, oxidative stress 
+and functional complications in a mouse model of arterial hypertension.
+
+Strohm L(1), Ubbens H(1), Mihalikova D(1), Czarnowski A(1), Stamm P(1), Molitor 
+M(2), Finger S(3), Oelze M(1), Atzler D(4), Wenzel P(2), Lurz P(1), Münzel T(2), 
+Weber C(5), Lutgens E(6), Daiber A(7), Daub S(1).
+
+Author information:
+(1)Department of Cardiology, Cardiology I, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany.
+(2)Department of Cardiology, Cardiology I, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany; Center for Thrombosis and 
+Hemostasis, University Medical Center of the Johannes Gutenberg-University, 
+Mainz, Germany; German Center for Cardiovascular Research (DZHK), Partnersite 
+Rhine-Main, Mainz, Germany.
+(3)Center for Thrombosis and Hemostasis, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany.
+(4)Institute for Cardiovascular Prevention, Ludwig-Maximilians-Universität 
+München, Munich, Germany; DZHK (German Center for Cardiovascular Research), 
+Partner Site Munich Heart Alliance, Germany; Walter Straub Institute of 
+Pharmacology and Toxicology, Ludwig-Maximilians-Universität, Munich, Germany.
+(5)Institute for Cardiovascular Prevention, Ludwig-Maximilians-Universität 
+München, Munich, Germany; DZHK (German Center for Cardiovascular Research), 
+Partner Site Munich Heart Alliance, Germany; Munich Cluster for Systems 
+Neurology (SyNergy), Munich, Germany.
+(6)DZHK (German Center for Cardiovascular Research), Partner Site Munich Heart 
+Alliance, Germany; Mayo Clinic, Dept Cardiovascular Medicine and Immunology, 
+Rochester, MN, USA.
+(7)Department of Cardiology, Cardiology I, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany; Center for Thrombosis and 
+Hemostasis, University Medical Center of the Johannes Gutenberg-University, 
+Mainz, Germany; German Center for Cardiovascular Research (DZHK), Partnersite 
+Rhine-Main, Mainz, Germany. Electronic address: daiber@uni-mainz.de.
+
+Cardiovascular disease is the leading cause of disease burden and death 
+worldwide and is fueled by vascular inflammation. CD40L-CD40-TRAF signaling is 
+involved in the progression of atherosclerosis and drives the development of 
+coronary heart disease (CHD). The present study investigates whether the 
+CD40L-CD40-TRAF6 signaling pathway with focus on immune cells and adipocytes 
+could be a therapeutic target in arterial hypertension. Arterial hypertension 
+was induced in WT (C57BL6/J) and cell-specific CD40(L) knockout mice (AdipoqCre 
+x CD40 fl/fl, CD4Cre x CD40 fl/fl, CD19Cre x CD40 fl/fl, and GP1baCre x CD40L 
+fl/fl) via angiotensin (AT-II) infusion (1 mg/kg/d) for seven days. Hypertensive 
+WT mice were also treated with a CD40-TRAF6 inhibitor (2.5 mg/kg/d, for 7d). The 
+TRAF6 inhibitor treatment normalized endothelial dysfunction and reduced blood 
+pressure in hypertensive wild type animals. Reactive oxygen species production 
+was decreased by TRAF6 inhibition in blood, aorta, heart, kidney, and 
+perivascular fat tissue. Additionally, FACS analysis revealed that TRAF6 
+inhibition prevents immune cell migration into the aortic vessel wall observed 
+by reduced CD45+ leukocyte, Ly6G+/Ly6C+ neutrophil, and Ly6Chigh inflammatory 
+monocyte content. The hypertensive cell type-specific CD40(L) knockout animals 
+showed only a minor effect on endothelial function, blood pressure, and 
+oxidative stress. Therefore, we conclude that targeting CD40 directly on 
+adipocytes, B-cells, T-cells, or CD40L on platelets is not a promising target to 
+prevent hypertension complications. In summary, TRAF6 inhibition but not 
+adipocyte, B-cell, or T-cell-specific CD40 or platelet-specific CD40L deficiency 
+reduces pathophysiological vascular inflammation in hypertensive mice, 
+suggesting TRAF6 inhibition as a potential therapeutic target in hypertensive 
+patients.
+
+Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.redox.2025.103520
+PMCID: PMC11840497
+PMID: 39899926 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests:SD was supported by a vascular 
+biology research grant on “CD40L and inflammation in hypertension” of the 
+Else-Kröner-Fresenius Foundation (2019_A110) and a research stipend from the 
+foundation Heart of Mainz. LS and HU hold PhD stipends of the TransMed PhD 
+Program financed by the Else-Kröner-Fresenius Foundation (2019_A110). TM is PI, 
+and AD Scientist of the DZHK (German Center for Cardiovascular Research), 
+Partner Site Rhine-Main, Mainz, Germany. This work was supported by German 
+Research Foundation (DFG) grant of the Major Research Instrumentation Programme 
+(DFG INST 371/47-1 FUGG). C.W. is a Van Der Laar professor of atherosclerosis.
+
+
+3. Basic Res Cardiol. 2024 Aug;119(4):1-18. doi: 10.1007/s00395-024-01045-1. Epub
+ 2024 Mar 30.
+
+Role of inflammatory signaling pathways involving the CD40-CD40L-TRAF cascade in 
+diabetes and hypertension-insights from animal and human studies.
+
+Strohm L(#)(1), Daiber A(#)(2)(3)(4), Ubbens H(1), Krishnankutty R(5), Oelze 
+M(1), Kuntic M(1), Hahad O(1)(6), Klein V(1), Hoefer IE(7), von Kriegsheim A(5), 
+Kleinert H(8), Atzler D(9)(10)(11), Lurz P(1)(6), Weber C(9)(10)(12)(13), Wild 
+PS(14)(15)(16)(17), Münzel T(1)(6), Knosalla C(18)(19)(20), Lutgens 
+E(9)(10)(21), Daub S(1).
+
+Author information:
+(1)Department of Cardiology, Cardiology I, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany.
+(2)Department of Cardiology, Cardiology I, University Medical Center of the 
+Johannes Gutenberg-University, Mainz, Germany. daiber@uni-mainz.de.
+(3)German Center for Cardiovascular Research (DZHK), Partnersite Rhine-Main, 
+Mainz, Germany. daiber@uni-mainz.de.
+(4)Universitätsmedizin der Johannes Gutenberg-Universität Zentrum für 
+Kardiologie 1, Labor für Molekulare Kardiologie, Geb. 605, Raum 3.262, 
+Langenbeckstr. 1, 55131, Mainz, Germany. daiber@uni-mainz.de.
+(5)Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.
+(6)German Center for Cardiovascular Research (DZHK), Partnersite Rhine-Main, 
+Mainz, Germany.
+(7)Central Diagnostic Laboratory, UMC Utrecht, Utrecht, The Netherlands.
+(8)Department of Pharmacology, University Medical Center of the Johannes 
+Gutenberg-University, Mainz, Germany.
+(9)Institute for Cardiovascular Prevention (IPEK), Ludwig-Maximilians 
+Universität, Munich, Germany.
+(10)German Center for Cardiovascular Research (DZHK), Partner Site Munich Heart 
+Alliance, Munich, Germany.
+(11)Walther Straub Institute of Pharmacology and Toxicology, LMU Munich, Munich, 
+Germany.
+(12)Munich Cluster for Systems Neurology (SyNergy), Munich, Germany.
+(13)Department of Biochemistry, Cardiovascular Research Institute Maastricht 
+(CARIM), Maastricht University, Maastricht, The Netherlands.
+(14)Preventive Cardiology and Preventive Medicine, Department of Cardiology, 
+University Medical Mainz, Johannes Gutenberg-University Mainz, Mainz, Germany.
+(15)Clinical Epidemiology and Systems Medicine, Center for Thrombosis and 
+Hemostasis, University Medical Center Mainz, Johannes Gutenberg University 
+Mainz, Mainz, Germany.
+(16)German Center for Cardiovascular Research (DZHK), Partnersite Rhine-Main, 
+University Medical Center Mainz, Johannes Gutenberg University Mainz, Mainz, 
+Germany.
+(17)Systems Medicine, Institute of Molecular Biology (IMB), Mainz, Germany.
+(18)Department of Cardiothoracic and Vascular Surgery, Deutsches Herzzentrum der 
+Charité, Berlin, Germany.
+(19)Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(20)German Center for Cardiovascular Research (DZHK), Partner Site Berlin, 
+Berlin, Germany.
+(21)Department Cardiovascular Medicine and Immunology, Mayo Clinic, Rochester, 
+MN, USA.
+(#)Contributed equally
+
+CD40L-CD40-TRAF signaling plays a role in atherosclerosis progression and 
+affects the pathogenesis of coronary heart disease (CHD). We tested the 
+hypothesis that CD40L-CD40-TRAF signaling is a potential therapeutic target in 
+hyperlipidemia, diabetes, and hypertension. In mouse models of hyperlipidemia 
+plus diabetes (db/db mice) or hypertension (1 mg/kg/d angiotensin-II for 
+7 days), TRAF6 inhibitor treatment (2.5 mg/kg/d for 7 or 14 days) normalized 
+markers of oxidative stress and inflammation. As diabetes and hypertension are 
+important comorbidities aggravating CHD, we explored whether the CD40L-CD40-TRAF 
+signaling cascade and their associated inflammatory pathways are expressed in 
+CHD patients suffering from comorbidities. Therefore, we analyzed vascular 
+bypass material (aorta or internal mammary artery) and plasma from patients with 
+CHD with diabetes and/or hypertension. Our Olink targeted plasma proteomic 
+analysis using the IMMUNO-ONCOLOGY panel revealed a pattern of step-wise 
+increase for 13/92 markers of low-grade inflammation with significant changes. 
+CD40L or CD40 significantly correlated with 38 or 56 other inflammatory targets. 
+In addition, specific gene clusters that correlate with the comorbidities were 
+identified in isolated aortic mRNA of CHD patients through RNA-sequencing. These 
+signaling clusters comprised CD40L-CD40-TRAF, immune system, hemostasis, muscle 
+contraction, metabolism of lipids, developmental biology, and apoptosis. 
+Finally, immunological analysis revealed key markers correlated with 
+comorbidities in CHD patients, such as CD40L, NOX2, CD68, and 3-nitrotyrosine. 
+These data indicate that comorbidities increase inflammatory pathways in CHD, 
+and targeting these pathways will be beneficial in reducing cardiovascular 
+events in CHD patients with comorbidities.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00395-024-01045-1
+PMCID: PMC11319409
+PMID: 38554187 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest for 
+this contribution.
+
+
+4. Cells. 2023 Jul 25;12(15):1926. doi: 10.3390/cells12151926.
+
+Ectodomain Shedding by ADAM17 Increases the Release of Soluble CD40 from Human 
+Endothelial Cells under Pro-Inflammatory Conditions.
+
+Klersy A(1), Meyer S(2), Leuschner F(2), Kessler T(3)(4), Hecker M(1), Wagner 
+AH(1).
+
+Author information:
+(1)Department of Cardiovascular Physiology, Heidelberg University, 69120 
+Heidelberg, Germany.
+(2)Department of Cardiology, Angiology and Pneumology, Heidelberg University, 
+69120 Heidelberg, Germany.
+(3)Department of Cardiology, German Heart Centre Munich, Technical University of 
+Munich, 80636 Munich, Germany.
+(4)DZHK (German Centre for Cardiovascular Research), Partner Site Munich Heart 
+Alliance, 80636 Munich, Germany.
+
+BACKGROUND: Homozygosity for the C allele of the -1T>C single nucleotide 
+polymorphism (SNP) of the CD40 gene (rs1883832) is associated with 
+susceptibility to coronary heart disease (CHD), enhanced CD40 expression, and 
+shedding. The disintegrin metalloprotease ADAM17 can cleave various cell surface 
+proteins. This study investigates an association between ADAM17-mediated CD40 
+shedding and inflammation in CC genotype human endothelial cells.
+METHODS: Human umbilical vein endothelial cells (HUVEC) carrying the CC genotype 
+were stimulated with soluble CD40 ligand (sCD40L) or tumor necrosis factor-α 
+(TNFα). Messenger RNA and protein expression were determined with standard 
+methods. Levels of high sensitive c-reactive protein (hs-CRP), interleukin-6 
+(IL-6), and sCD40 in plasma samples from patients with CHD were assessed using 
+ELISA.
+RESULTS: ADAM17 surface abundance was elevated following stimulation with CD40L 
+and TNFα just as its regulator iRhom2. Inhibition of ADAM17 prevented 
+TNFα-induced sCD40 and soluble vascular cell adhesion molecule-1 release into 
+the conditioned medium and reinforced CD40 surface abundance. Secondary to 
+inhibition of ADAM17, stimulation with CD40L or TNFα upregulated monocyte 
+chemoattractant protein-1 mRNA and protein. Levels of sCD40 and the inflammatory 
+biomarkers hs-CRP and IL-6 were positively correlated in the plasma of patients 
+with CHD.
+CONCLUSIONS: We provide a mechanism by which membrane-bound CD40 is shed from 
+the endothelial cell surface by ADAM17, boosting sCD40 formation and limiting 
+downstream CD40 signaling. Soluble CD40 may represent a robust biomarker for 
+CHD, especially in conjunction with homozygosity for the C allele of the -1T>C 
+SNP of the CD40 gene.
+
+DOI: 10.3390/cells12151926
+PMCID: PMC10417149
+PMID: 37566005 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+5. RETRACTED ARTICLE
+
+Biomed Res Int. 2022 Jun 24;2022:6818888. doi: 10.1155/2022/6818888. eCollection 
+2022.
+
+Analysis of Risk Factors of Coronary Heart Disease and Its Correlation with 
+Inflammatory Factors in Patients with Type 2 Diabetes Mellitus.
+
+Wang Z(1), Zhao H(1), Zhou Q(2).
+
+Author information:
+(1)Department of Geriatrics, Wuhan No.1 Hospital, Wuhan, Hubei Province, China 
+430022.
+(2)Department of Geriatrics, Huangshi Central Hospital, Huangshi, Hubei 
+Province, China 435000.
+
+Retraction in
+    Biomed Res Int. 2023 Dec 29;2023:9817271. doi: 10.1155/2023/9817271.
+
+In this paper, we propose a new method to analyze the risk factors of coronary 
+heart disease (CHD) and their correlation with inflammatory factors in patients 
+with type 2 diabetes mellitus (T2DM). To verify and implement this idea, we have 
+selected a total of 165 patients with T2DM treated in our hospital from March 
+2019 to October 2021 that were divided into CHD group (n = 72) and non-CHD group 
+(n = 93) according to the results of coronary angiography. Patients with CHD 
+were divided into three groups according to SYNTAX score: low-risk group, 
+medium-risk group, and high-risk group. The clinical data of all patients were 
+collected. Univariate and multivariate analyses were used to screen the risk 
+factors of CHD in patients with T2DM. The related inflammatory factors such as 
+C-reactive protein (CRP), interleukin-6 (IL-6), and water-soluble CD40 ligand 
+(sCD40L) were detected in all patients. Pearson's linear correlation analysis 
+was used to analyze the correlation between the expression levels of CRP, IL-6, 
+and sCD40L and CHD in patients with T2DM. The receiver working curve (ROC) was 
+used to evaluate the efficacy of IL-6, CRP, and sCD40L in predicting high risk 
+of CHD in patients with T2DM. Multivariate analysis showed that age and course 
+of T2DM, FFA, UA, and Hcy were risk factors for CHD in patients with T2DM. The 
+serum levels of IL-6, CRP, and sCD40L in patients with CHD were significantly 
+higher than those in patients without CHD. According to SYNTAX score, 72 
+patients with CHD were divided into low-risk group (n = 36), medium-risk group 
+(n = 26), and high-risk group (n = 10). Compared with the low-risk group, the 
+expression levels of serum IL-6 CRP and sCD40L in the middle-risk group and 
+high-risk group were significantly higher than those in the low-risk group. The 
+expression levels of IL-6 CRP and sCD40L in the high-risk group were also 
+significantly higher than those in the medium-risk group. There is a positive 
+correlation between syntactic score and IL-6 expression in patients with T2DM 
+complicated with coronary heart disease (r = 0.778, P < 0.001), with the 
+expression of CRP (r = 0.756, P < 0.001) and with the expression of sCD40L (r = 
+0.748, P < 0.001). Advanced age, long course of T2DM, elevated levels of FFA, 
+UA, and Hcy are all risk factors of CHD in patients with type 2 diabetes. T2DM 
+patients with the above risk factors should be vigilant and pay attention to 
+monitoring the related indexes of coronary heart disease to avoid the occurrence 
+of serious cardiovascular disease. CRP, IL-6, and sCD40L are involved in the 
+progression of CHD in patients with T2DM. The more severe CHD is, the higher the 
+expression of IL-6, CRP, and sCD40L in serum.
+
+Copyright © 2022 Zhigang Wang et al.
+
+DOI: 10.1155/2022/6818888
+PMCID: PMC9249516
+PMID: 35782064 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+=== Gene: S100A9 ===
+1. Biosci Rep. 2023 Jul 26;43(7):BSR20222552. doi: 10.1042/BSR20222552.
+
+Identification of biomarkers and immune infiltration in acute myocardial 
+infarction and heart failure by integrated analysis.
+
+Liu W(#)(1), Li Y(#)(2), Zhang Y(3), Li S(4), Chen Y(5), Han B(1), Lu Y(1).
+
+Author information:
+(1)Department of Cardiology, Xuzhou Central Hospital, Xuzhou Institute of 
+Cardiovascular Disease, Xuzhou Clinical School of Nanjing Medical University, 
+No. 199 Jiefang South Road, Xuzhou 221009, PR China.
+(2)Department of Ultrasonography, Xuzhou Central Hospital, Xuzhou Clinical 
+School of Nanjing Medical University, No. 199 Jiefang South Road, Xuzhou 221009, 
+PR China.
+(3)Department of Anesthesiology, Xuzhou Central Hospital, Xuzhou Clinical School 
+of Nanjing Medical University, No. 199 Jiefang South Road, Xuzhou 221009, PR 
+China.
+(4)Department of Cardiology, Shanghai Institute of Cardiovascular Diseases, 
+Zhongshan Hospital, Fudan University, Shanghai, China.
+(5)Department of Cardiology, The Affiliated Suzhou Hospital of Nanjing Medical 
+University, Suzhou Municipal Hospital, Gusu School, Nanjing Medical University, 
+Suzhou, China.
+(#)Contributed equally
+
+The mortality of heart failure after acute myocardial infarction (AMI) remains 
+high. The aim of the present study was to analyze hub genes and immune 
+infiltration in patients with AMI and heart failure (HF). The study utilized 
+five publicly available gene expression datasets from peripheral blood in 
+patients with AMI who either developed or did not develop HF. The unbiased 
+patterns of 24 immune cell were estimated by xCell algorithm. Single-cell RNA 
+sequencing data were used to examine the immune cell infiltration in heart 
+failure patients. Hub genes were validated by quantitative reverse 
+transcription-PCR (RT-qPCR). In comparison with the coronary heart disease (CHD) 
+group, immune infiltration analysis of AMI patients showed that macrophages M1, 
+macrophages, monocytes, natural killer (NK) cells, and NKT cells were the five 
+most highly activated cell types. Five common immune-related genes (S100A12, 
+AQP9, CSF3R, S100A9, and CD14) were identified as hub genes associated with AMI. 
+Using RT-qPCR, we confirmed FOS, DUSP1, CXCL8, and NFKBIA as the potential 
+biomarkers to identify AMI patients at risk of HF. The study identified several 
+transcripts that differentiate between AMI and CHD, and between HF and non-HF 
+patients. These findings could improve our understanding of the immune response 
+in AMI and HF, and allow for early identification of AMI patients at risk of HF.
+
+© 2023 The Author(s).
+
+DOI: 10.1042/BSR20222552
+PMCID: PMC10329185
+PMID: 37334672 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no competing 
+interests associated with the manuscript.
+
+
+2. Cells. 2022 Jun 13;11(12):1911. doi: 10.3390/cells11121911.
+
+Integrated Analysis Reveals S100a8/a9 Regulates Autophagy and Apoptosis through 
+the MAPK and PI3K-AKT Signaling Pathway in the Early Stage of Myocardial 
+Infarction.
+
+Yi W(1), Zhu R(1), Hou X(1), Wu F(1), Feng R(1).
+
+Author information:
+(1)Department of Pharmaceutical Toxicology, School of Pharmacy, China Medical 
+University, No. 77 Puhe Road, Shenyang North New Area, Shenyang 110122, China.
+
+Myocardial infarction (MI), a type of coronary heart disease, has had a 
+significantly increased incidence in recent years. The balance of cardiomyocyte 
+apoptosis and autophagy after MI is one of the main determinants of patient 
+prognosis. Both affect myocardial fibrosis and ventricular remodeling and 
+regulate cell survival. However, there are few studies on the regulation 
+mechanism of cardiomyocyte autophagy and apoptosis in the early stage after MI. 
+In this study, based on analyzing the scRNA-seq and mRNA-seq data of mice in the 
+early stage of MI, we found that the expression of S100a8 and S100a9 increased 
+first and then decreased in the early stage of MI, and their expression level 
+changed with the number of neutrophils. Further, through the functional 
+enrichment analysis of the differentially expressed genes, we found that S100a8 
+and S100a9 were simultaneously associated with autophagy and apoptosis and could 
+regulate autophagy and apoptosis of cardiomyocytes through MAPK or PI3K-AKT 
+signaling pathways. This study provides valuable insights for clarifying the 
+pathogenesis of early stage MI and improving its early treatment.
+
+DOI: 10.3390/cells11121911
+PMCID: PMC9221389
+PMID: 35741040 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Mol Genet Genomic Med. 2020 Oct;8(10):e1415. doi: 10.1002/mgg3.1415. Epub 2020
+ Aug 2.
+
+A module of multifactor-mediated dysfunction guides the molecular typing of 
+coronary heart disease.
+
+Li Y(1)(2), Lin M(1)(2), Wang K(3), Zhan Y(4), Gu W(1)(2), Gao G(1)(2), Huang 
+Y(1)(2), Chen Y(1)(2), Huang T(1)(2), Wang J(1)(2).
+
+Author information:
+(1)Department of Cardiology, Sun Yat-sen Memorial Hospital, Sun Yat-sen 
+University, Guangzhou, China.
+(2)Laboratory of Cardiac Electrophysiology and Arrhythmia in Guangdong Province, 
+Guangdong, China.
+(3)Division of Vascular Surgery, the First Affiliated Hospital, Sun Yat-sen 
+University, Guangzhou, China.
+(4)Department of Anesthesiology, the First Affiliated Hospital, Sun Yat-sen 
+University, Guangzhou, China.
+
+BACKGROUND: Coronary atherosclerotic heart disease (CHD) is the most common 
+cardiovascular disease and has become a leading cause of death globally. Various 
+molecular typing methods are available for the diagnosis and treatment of 
+tumors. However, molecular typing results are not routinely used for CHD.
+METHODS AND RESULTS: Aiming to uncover the underlying molecular features of 
+different types of CHD, we screened the differentially expressed genes (DEGs) 
+associated with CHD based on the Gene Expression Omnibus (GEO) data and expanded 
+those with the NCBI-gene and OMIM databases to finally obtain 2021 DEGs. The 
+weighted gene co-expression analysis (WGCNA) was performed on the candidate 
+genes, and six distinctive WGCNA modules were identified, two of which were 
+associated with CHD. Moreover, DEGs were mined as key genes for co-expression 
+based on the module network relationship. Furthermore, the differentially 
+expressed miRNAs in CHD and interactions in the database were mined in the GEO 
+data set to build a multifactor regulatory network of key genes for 
+co-expression. Based on the network, the CHD samples were further classified 
+into five clusters and we defined FTH1, HCAR3, RGS2, S100A9, and TYROBP as the 
+top genes of the five subgroups. Finally, the mRNA levels of FTH1, S100A9, and 
+TYROBP were found to be significantly increased, while the expression of HCAR3 
+was decreased in the blood of CHD patients. We did not detect measurable levels 
+of RGS2.
+CONCLUSION: The screened core clusters of genes may be a target for the 
+diagnosis and treatment of CHD as a molecular typing module.
+
+© 2020 The Authors. Molecular Genetics & Genomic Medicine published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1002/mgg3.1415
+PMCID: PMC7549572
+PMID: 32743916 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interests.
+
+
+4. Clin Chim Acta. 2020 Mar;502:293-304. doi: 10.1016/j.cca.2019.11.019. Epub
+2019  Nov 30.
+
+S100 proteins in atherosclerosis.
+
+Xiao X(1), Yang C(2), Qu SL(2), Shao YD(3), Zhou CY(3), Chao R(2), Huang L(4), 
+Zhang C(5).
+
+Author information:
+(1)Research Lab for Clinical & Translational Medicine, Hengyang Medical College, 
+University of South China, Hengyang, Hunan 421001, People's Republic of China; 
+Institute of Cardiovascular Disease, Key Lab for Arteriosclerology of Hunan 
+Province, Hengyang Medical College, University of South China, Hengyang, Hunan 
+421001, People's Republic of China; Departments of Clinical Medicine, Hengyang 
+Medical College, University of South China, Hengyang, Hunan 421001, People's 
+Republic of China.
+(2)Institute of Cardiovascular Disease, Key Lab for Arteriosclerology of Hunan 
+Province, Hengyang Medical College, University of South China, Hengyang, Hunan 
+421001, People's Republic of China.
+(3)Research Lab for Clinical & Translational Medicine, Hengyang Medical College, 
+University of South China, Hengyang, Hunan 421001, People's Republic of China; 
+Departments of Stomatology, Hengyang Medical College, University of South China, 
+Hengyang, Hunan 421001, People's Republic of China.
+(4)Research Lab for Clinical & Translational Medicine, Hengyang Medical College, 
+University of South China, Hengyang, Hunan 421001, People's Republic of China. 
+Electronic address: huangliang0530@hotmail.com.
+(5)Institute of Cardiovascular Disease, Key Lab for Arteriosclerology of Hunan 
+Province, Hengyang Medical College, University of South China, Hengyang, Hunan 
+421001, People's Republic of China. Electronic address: 
+zhangchi9966@hotmail.com.
+
+Atherosclerosis is an arterial disease associated with dyslipidemia, abnormal 
+arterial calcification and oxidative stress. It has been shown that a continued 
+chronic inflammatory state of the arterial wall contributes to the development 
+of atherosclerosis. The inflammatory stimulation, recruitment of inflammatory 
+cells and production of pro-inflammatory cytokines enhances vascular 
+inflammation. Some members of the S100 proteins family bind with their 
+receptors, such as advanced glycation end products (RAGE), scavenger receptors 
+(CD36) and toll-like receptor 4 (TLR-4), contributing to the cellular response 
+in atherosclerotic progression. This review summarizes the roles of S100 
+proteins (S100A8, S100A9 and S100A12) in the vascular inflammation, vascular 
+calcification and vascular oxidative stress. S100 proteins are released from 
+monocytes, smooth muscle cells and endothelial cells in response to cellular 
+stress stimuli, and then the binding of S100 proteins to RAGE activate 
+downstream signaling such as transcription factor kappa B (NF-κB) translocation 
+and reactive oxygen species (ROS) production, which act as a positive feedback 
+loop for inducing pro-inflammatory phenotype in a wide variety of cell types 
+including endothelial cells, vascular smooth muscle cells and leukocytes. Thus, 
+it suggests that the inhibition of S100 proteins-mediated RAGE and TLR4 
+activation appears to be a promising approach to treat atherosclerosis. In 
+addition, recent study showed that serum S100A12 can predict future 
+cardiovascular events, highlighting that S100A12 is likely to be a potential 
+biomarker of therapeutic efficacy and disease progression in coronary heart 
+disease. Future studies of patients with coronary heart disease may provide more 
+evidences supporting that S100 proteins is promising drug target in the 
+prevention and therapy of atherosclerosis.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cca.2019.11.019
+PMID: 31794767 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest All authors 
+declare that no conflict of interest exists.
+
+=== Gene: STAT1 ===
+1. Atherosclerosis. 2024 May;392:117507. doi: 
+10.1016/j.atherosclerosis.2024.117507. Epub 2024 Mar 11.
+
+Gene expression profiling in elderly patients with familial hypercholesterolemia 
+with and without coronary heart disease.
+
+Melnes T(1), Bogsrud MP(2), Christensen JJ(1), Rundblad A(1), Narverud I(3), 
+Retterstøl K(4), Aukrust P(5), Halvorsen B(5), Ulven SM(1), Holven KB(6).
+
+Author information:
+(1)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway.
+(2)Unit for Cardiac and Cardiovascular Genetics, Department of Medical Genetics, 
+Oslo University Hospital Ullevål, Norway; Norwegian National Advisory Unit on 
+Familial Hypercholesterolemia, Department of Endocrinology, Morbid Obesity and 
+Preventive Medicine, Oslo University Hospital Aker, Norway.
+(3)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; Norwegian National Advisory Unit on Familial Hypercholesterolemia, 
+Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital Aker, Norway.
+(4)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; The Lipid Clinic, Department of Endocrinology, Morbid Obesity and 
+Preventive Medicine, Oslo University Hospital Aker, Norway.
+(5)Research Institute for Internal Medicine, Oslo University Hospital, Norway; 
+Institute of Clinical Medicine, University of Oslo, Norway.
+(6)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; Norwegian National Advisory Unit on Familial Hypercholesterolemia, 
+Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital Aker, Norway. Electronic address: 
+kirsten.holven@medisin.uio.no.
+
+BACKGROUND AND AIMS: Elderly familial hypercholesterolemia (FH) patients are at 
+high risk of coronary heart disease (CHD) due to high cholesterol burden and 
+late onset of effective cholesterol-lowering therapies. A subset of these 
+individuals remains free from any CHD event, indicating the potential presence 
+of protective factors. Identifying possible cardioprotective gene expression 
+profiles could contribute to our understanding of CHD prevention and future 
+preventive treatment. Therefore, this study aimed to investigate gene expression 
+profiles in elderly event-free FH patients.
+METHODS: Expression of 773 genes was analysed using the Nanostring Metabolic 
+Pathways Panel, in peripheral blood mononuclear cells (PBMCs) from FH patients 
+≥65 years without CHD (FH event-free, n = 44) and with CHD (FH CHD, n = 39), and 
+from healthy controls ≥70 years (n = 39).
+RESULTS: None of the genes were differentially expressed between FH patients 
+with and without CHD after adjusting for multiple testing. However, at nominal 
+p < 0.05, we found 36 (5%) differentially expressed genes (DEGs) between the two 
+FH groups, mainly related to lipid metabolism (e.g. higher expression of ABCA1 
+and ABCG1 in FH event-free) and immune responses (e.g. lower expression of STAT1 
+and STAT3 in FH event-free). When comparing FH patients to controls, the 
+event-free group had fewer DEGs than the CHD group; 147 (19%) and 219 (28%) 
+DEGs, respectively.
+CONCLUSIONS: Elderly event-free FH patients displayed a different PBMC gene 
+expression profile compared to FH patients with CHD. Differences in gene 
+expression compared to healthy controls were more pronounced in the CHD group, 
+indicating a less atherogenic gene expression profile in event-free individuals. 
+Overall, identification of cardioprotective factors could lead to future 
+therapeutic targets.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.atherosclerosis.2024.117507
+PMID: 38663317 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: MPB has received research grants 
+and/or personal fees from Amgen and Sanofi, none of which are related to the 
+content of this manuscript. JJC has received research grants and/or personal 
+fees from Mills DA and Amgen, none of which are related to the content of this 
+manuscript. AR has received personal fees from Rimfrost AS that are not related 
+to the content of this manuscript. KR has received research grants and/or 
+personal fees from Akcea, Amgen, Mills, Sanofi and Sunnovion, none of which are 
+related to the content of this manuscript. KBH has received research grants 
+and/or personal fees from Sanofi that are related to the content of this 
+manuscript. The other authors have no financial relationships relevant to 
+disclose.
+
+
+2. IUBMB Life. 2021 Jan;73(1):238-251. doi: 10.1002/iub.2423. Epub 2020 Dec 17.
+
+Enhancer of zeste homolog 2 participates in the process of atherosclerosis by 
+modulating microRNA-139-5p methylation and signal transducer and activator of 
+transcription 1 expression.
+
+Zheng X(1), Zhao X(1), Han Z(1), Chen K(1).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, China.
+
+Atherosclerosis (AS) is the main cause of coronary heart disease, in which 
+enhancer of zeste homolog 2 (EZH2) has been implied to participate in this 
+process. Thus, this work proposed to explore the effect of EZH2 on AS from 
+microRNA-139-5p (miR-139-5p)/signal transducer and activator of transcription 1 
+(STAT1) axis. EZH2, miR-139-5p, and STAT1 expression in arterial tissues of AS 
+patients were detected. Human arterial smooth muscle cells (HASMCs) induced with 
+oxidized low-density lipoprotein (ox-LDL) and the mice fed with high fat diet 
+were treated with silenced EZH2 or upregulated miR-139-5p to explore their roles 
+in proliferation and apoptosis of HASMCs, together with inflammation response 
+and oxidative stress of mice. Chromatin immunoprecipitation experiment was 
+applied to verify the regulatory effect of EZH2 on miR-139-5p through 
+methylation of H3K27me3. The targeting relationship between miR-139-5p and STAT1 
+was verified by online website and luciferase activity assay. Reduced miR-139-5p 
+and overexpressed EHZ2 and STAT1 were found in AS. Silenced EZH2 or elevated 
+miR-139-5p decreased the production of cholesterol and inhibited inflammation 
+reaction in serum of mice with AS. Silenced EZH2 or elevated miR-139-5p 
+facilitated proliferation and restrained apoptosis of ox-LDL-treated HASMCs, and 
+restrained oxidative stress and cell apoptosis in arterial tissues of AS mice. 
+EZH2 regulated miR-139-5p through H3K27me3, and miR-139-5p targeted STAT1. 
+miR-139-5p silencing antagonized the effects of EZH2 down-regulation on AS. This 
+study manifests that down-regulated EZH2 or elevated miR-139-5p inhibits 
+ox-LDL-induced HASMCs apoptosis, plaque formation, and inflammatory response in 
+AS mice, which may be related to down-regulated STAT1.
+
+© 2020 International Union of Biochemistry and Molecular Biology.
+
+DOI: 10.1002/iub.2423
+PMID: 33331071 [Indexed for MEDLINE]
+
+
+3. PLoS One. 2016 Dec 14;11(12):e0167676. doi: 10.1371/journal.pone.0167676. 
+eCollection 2016.
+
+Identification of the Functional Variant(s) that Explain the Low-Density 
+Lipoprotein Receptor (LDLR) GWAS SNP rs6511720 Association with Lower LDL-C and 
+Risk of CHD.
+
+Fairoozy RH(1), White J(2), Palmen J(1), Kalea AZ(1), Humphries SE(1).
+
+Author information:
+(1)Centre for Cardiovascular Genetics, BHF Laboratories, Institute of 
+Cardiovascular Science, University College London, London, United Kingdom.
+(2)University College London Genetics Institute, Department of Genetics, 
+Environment and Evolution, London, United Kingdom.
+
+BACKGROUND: The Low-Density Lipoprotein Receptor (LDLR) SNP rs6511720 (G>T), 
+located in intron-1 of the gene, has been identified in genome-wide association 
+studies (GWAS) as being associated with lower plasma levels of LDL-C and a lower 
+risk of coronary heart disease (CHD). Whether or not rs6511720 is itself 
+functional or a marker for a functional variant elsewhere in the gene is not 
+known.
+METHODS: The association of LDLR SNP rs6511720 with incidence of CHD and levels 
+of LDL-C was determined by reference to CARDIoGRAM, C4D and Global lipids 
+genetics consortium (GLGC) data. SNP annotation databases were used to identify 
+possible SNP function and prioritization. Luciferase reporter assays in the 
+liver cell line Huh7 were used to measure the effect of variant genotype on gene 
+expression. Electrophoretic Mobility Shift Assays (EMSAs) were used to identify 
+the Transcription Factors (TFs) involved in gene expression regulation.
+RESULTS: The phenotype-genotype analysis showed that the rs6511720 minor allele 
+is associated with lower level of LDL-C [beta = -0.2209, p = 3.85 x10-262], and 
+lower risk of CHD [log (OR) = 0.1155, p = 1.04 x10-7]. Rs6511720 is in complete 
+linkage. Rs6511720 is in complete linkage disequilibrium (LD) with three 
+intron-1 SNPs (rs141787760, rs60173709, rs57217136). Luciferase reporter assays 
+in Huh7 cells showed that the rare alleles of both rs6511720 and rs57217136 
+caused a significant increase in LDLR expression compared to the common alleles 
+(+29% and +24%, respectively). Multiplex Competitor-EMSAs (MC-EMSA) identified 
+that the transcription factor serum response element (SRE) binds to rs6511720, 
+while retinoic acid receptor (RAR) and signal transducer and activator of 
+transcription 1 (STAT1) bind to rs57217136.
+CONCLUSION: Both LDLR rs6511720 and rs57217136 are functional variants. Both 
+these minor alleles create enhancer-binding protein sites for TFs and may 
+contribute to increased LDLR expression, which is consequently associated with 
+reduced LDL-C levels and 12% lower CHD risk.
+
+DOI: 10.1371/journal.pone.0167676
+PMCID: PMC5156384
+PMID: 27973560 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+4. Acta Pharmacol Sin. 2014 Jun;35(6):770-8. doi: 10.1038/aps.2014.16. Epub 2014 
+Apr 21.
+
+Cyclovirobuxinum D suppresses lipopolysaccharide-induced inflammatory responses 
+in murine macrophages in vitro by blocking JAK-STAT signaling pathway.
+
+Guo D(1), Li JR(2), Wang Y(3), Lei LS(2), Yu CL(2), Chen NN(2).
+
+Author information:
+(1)Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.
+(2)School of Pharmaceutical Sciences, Southern Medical University, Guangzhou 
+510515, China.
+(3)China National Center for Biotechnology Development, Beijing 100039, China.
+
+AIM: Cyclovirobuxinum D (CVB-D), an alkaloid isolated from the Chinese medicinal 
+plant Buxus microphylla, has been found to be effective to treat cardiac 
+insufficiency, arrhythmias and coronary heart disease. In the present study, we 
+investigated the effects of CVB-D on the inflammatory responses in 
+lipopolysaccharide (LPS)-stimulated murine macrophages in vitro and the 
+underlying mechanisms.
+METHODS: Murine macrophage cell line RAW264.7 cells were incubated in the 
+presence of LPS (0.1 μg/mL) for 24 h. The cell viability was measured using MTT 
+assay. The release of NO and cytokines were detected using the Griess test and 
+ELISA, respectively. The mRNA and protein levels were determined using RT-PCR 
+and Western blot, respectively. Reporter gene assays were used to analyze the 
+transcriptional activity of NF-κB.
+RESULTS: Treatment of RAW264.7 cells with CVB-D (25-300 μmol/L) did not affect 
+the cell viability. Pretreatment with CVB-D (50, 100 and 200 μmol/L) 
+concentration-dependently decreased NO release and iNOS expression in 
+LPS-treated RAW264.7 cells (its IC50 value in inhibition of NO production was 
+144 μmol/L). CVB-D also concentration-dependently inhibited the secretion and 
+mRNA expression of IL-1β and IL-6 in LPS-treated RAW264.7 cells. Furthermore, 
+CVB-D remarkably inhibited the phosphorylation of STAT1 and STAT3, as well as 
+JAK2 in LPS-treated RAW264.7 cells, but did not affect the activation of NF-κB 
+and MAPKs pathways. Pretreatment with the JAK2 specific inhibitor AG490 (30 
+μmol/L) produced similar effects on NO release and iNOS expression in 
+LPS-treated RAW264.7 cells.
+CONCLUSION: CVB-D exerts anti-inflammatory effects in LPS-stimulated murine 
+macrophages in vitro at least in part by blocking the JAK-STAT signaling 
+pathway. The anti-inflammatory actions of CVB-D may contribute to its 
+cardioprotection.
+
+DOI: 10.1038/aps.2014.16
+PMCID: PMC4086391
+PMID: 24747164 [Indexed for MEDLINE]
+
+
+5. Int J Mol Med. 2014 Mar;33(3):670-6. doi: 10.3892/ijmm.2013.1610. Epub 2013
+Dec  27.
+
+Transcriptome and miRNA network analysis of familial hypercholesterolemia.
+
+Chen H(1), Wang L(2), Jiang J(1).
+
+Author information:
+(1)Department of Medical Cardiology, Tongji Hospital, Tongji University, 
+Shanghai 200065, P.R. China.
+(2)Department of Cardiovascular Surgery, The General Hospital of Ningxia Medical 
+University, Yinchuan, Ningxia 750004, P.R. China.
+
+Familial hypercholesterolemia (FH) is a genetic disorder characterized by a high 
+serum concentration of low-density lipoprotein (LDL) cholesterol. The high LDL 
+cholesterol level leads to an excess deposition of cholesterol in the arterial 
+walls and accelerated atherosclerosis, thereby increasing the risk of premature 
+coronary heart disease. In the present study, we used a DNA microarray approach 
+to identify gene expression profiles that distinguish patients with FH from 
+healthy control subjects. Furthermore, transcription factors (TFs), microRNAs 
+(miRNAs), target genes and pathways were analyzed to explore the potential 
+transcriptional interactions occurring in FH. Publicly available microarray and 
+regulation data were used to construct a regulatory network to identify 
+additional genes related to FH and their interactions. The results revealed that 
+specificity protein 1 (SP1), signal transducer and activator of transcription 1 
+(STAT1) and spleen focus forming virus (SFFV) proviral integration oncogene spi1 
+(SPI1) play a central role in the FH regulatory network. In addition, the TF, 
+upstream transcription factor 2, c-fos interacting (USF2) and the gene, 
+Wiskott-Aldrich syndrome (WAS), were identified to be associated with FH, 
+although no reports for these proteins exist in the literature. Overall, 
+transcriptional network analysis proved to be effective approach to identify 
+novel targets for FH therapy.
+
+DOI: 10.3892/ijmm.2013.1610
+PMID: 24378567 [Indexed for MEDLINE]
+
+=== Gene: IL10 ===
+1. Biomedicines. 2025 Jun 6;13(6):1392. doi: 10.3390/biomedicines13061392.
+
+Immunological Markers of Cardiovascular Pathology in Older Patients.
+
+Bugibayeva A(1), Kurmanova A(1), Abzaliyev K(1), Abzaliyeva S(1), Kurmanova 
+G(1), Sundetova D(1), Abdykassymova M(1), Bitemirova R(1), Sagalbayeva U(1), 
+Absatarova K(1), Suleimenova M(2).
+
+Author information:
+(1)Faculty of Medicine and Healthcare, Al-Farabi Kazakh National University, 
+Almaty 050040, Kazakhstan.
+(2)Faculty of Information Technology, Al-Farabi Kazakh National University, 
+Almaty 050040, Kazakhstan.
+
+Background: The aging process is accompanied by changes in the immunological 
+status of a person. Immunosenescence is considered a significant cause of the 
+development of cardiovascular diseases (CVD) in elderly people. However, to 
+date, the relationship between immune/inflammatory processes and diseases 
+associated with age is considered quite complex and is not fully understood. 
+Immunophenotyping and the intracellular production of cytokines involved in the 
+processes of inflammatory aging will allow us to identify biomarkers that are 
+associated with cardiovascular diseases in the elderly. Objectives: To identify 
+immunological markers associated with the process of inflammatory aging in older 
+individuals with cardiovascular diseases. Methods: CD-phenotyping and 
+intracellular cytokine analysis of peripheral blood using the flow cytometry 
+method were conducted in 52 people over 60 years of age (group 1 had CVD and 
+group 2 did not). Blood samples were stained with monoclonal antibodies (mAb) 
+using Becton Dickinson (BD) reagents for the staining and binding of surface 
+receptors CD4+, CD8+, CD14+, CD19+, CD16+, CD56+, CD59+, CD95+, and HLA DR+ and 
+intracellular receptors TNF, IL-10, GM-CSF, VEGFR-2, IGF, and perforin. In 
+addition, the following parameters were studied: questionnaire data (gender, 
+age, alcohol consumption, smoking, physical activity, and marital status), 
+clinical data (blood pressure (BP), heart rate (HR), body mass index (BMI)), 
+comorbid conditions, and cardiovascular diseases (coronary heart disease (CHD), 
+chronic heart failure (CHF), arterial hypertension (AH), previous myocardial 
+infarction (PICS), diabetes mellitus (DM), atrial fibrillation (AF), and 
+stroke). Results: The older patients with cardiovascular pathology had high 
+levels of monocytes CD14+ (p = 0.014), low levels of CD8+ lymphocytes (p = 
+0.046), and low intracellular production of GM-CSF (p = 0.013) compared to the 
+older people without CVD. Conclusions: The revealed differences in the 
+expression of CD14+ monocytes indicate their role in the development of 
+cardiovascular pathology associated with age-related changes. A decrease in 
+cytotoxic CD8+ lymphocytes and intracellular GM-CSF production leads to an 
+increased risk of developing cardiovascular diseases in older individuals. These 
+observed changes with age will not only expand existing knowledge about the 
+aging of the regulatory link of the immune system but also help to obtain data 
+to predict CVD in older people. Thus, the obtained results support the use of 
+these immunological markers to identify the risk of circulatory disease and a 
+personalized approach in geriatric practice.
+
+DOI: 10.3390/biomedicines13061392
+PMCID: PMC12189633
+PMID: 40564110
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analysis, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.
+
+
+2. Diagnostics (Basel). 2025 May 11;15(10):1211. doi:
+10.3390/diagnostics15101211.
+
+Integrating the Interleukins in the Biomarker Panel for the Diagnosis and 
+Prognosis of Patients with Acute Coronary Syndromes: Unraveling a Multifaceted 
+Conundrum.
+
+Timpau AS(1), Miftode EG(2), Costache-Enache II(1), Petris AO(1), Miftode IL(2), 
+Mitu I(3), Miftode RS(1).
+
+Author information:
+(1)Department of Internal Medicine I (Cardiology), Faculty of Medicine, 
+University of Medicine and Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+(2)Department of Infectious Diseases, Faculty of Medicine, University of 
+Medicine and Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+(3)Department of Morpho-Functional Sciences II, University of Medicine and 
+Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+
+Background and Objectives: Despite the latest advancements in interventional 
+procedures and pharmacological therapy, the incidence of heart failure and death 
+rate following an acute myocardial remain unacceptably high. This study was 
+designed in response to the limited and conflicting literature data regarding 
+the diagnostic and prognostic role of modern inflammatory biomarkers in patients 
+with coronary artery disease. Materials and Methods: We conducted a 
+case-control, prospective observational study. A total of 145 patients were 
+analyzed, of whom 105 patients had an acute coronary syndrome diagnosis and 
+represented the study group, while 40 patients with a chronic coronary syndrome 
+diagnosis represented the control group. This study investigates the diagnostic 
+and prognostic role of the interleukin 1β (IL-1β), interleukin 6 (IL-6), 
+interleukin 10 (IL-10), Growth differentiation factor 15 (GDF-15), and classic 
+biomarkers in patients with ischemic coronary heart disease. Results: IL-1β 
+exhibited a prognostic role, being significantly correlated with a left 
+ventricular ejection fraction below 30%. GDF-15 plays a dual role, as a 
+cardio-inflammatory biomarker, being significantly correlated with both 
+N-terminal pro-brain natriuretic peptide (NT-proBNP), and IL-1β, IL-6, and CRP. 
+At the same time, GDF-15 represents a surrogate marker for renal dysfunction. 
+According to the ROC analysis, patients at high mortality risk can be identified 
+with adequate accuracy by cardiac troponin, GDF-15, and IL-10, in addition to 
+NT-proBNP. Logistic regression models confirmed NT-proBNP and IL-10 as mortality 
+predictors. Conclusions: IL-1β stands out for its significant prognostic role, 
+while IL-6 did not demonstrate a diagnostic or prognostic role in acute 
+myocardial infarction patients. IL-10 demonstrated superior predictive value in 
+terms of fatal prognosis compared with the other modern biomarkers. GDF-15 is 
+representative of a multivalent biomarker involved in inflammation, heart 
+failure, and renal dysfunction.
+
+DOI: 10.3390/diagnostics15101211
+PMCID: PMC12110678
+PMID: 40428204
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Diagnostics (Basel). 2025 Mar 27;15(7):850. doi: 10.3390/diagnostics15070850.
+
+A Predictive Model of Cardiovascular Aging by Clinical and Immunological Markers 
+Using Machine Learning.
+
+Suleimenova M(1), Abzaliyev K(2), Mansurova M(1), Abzaliyeva S(1), Kurmanova 
+A(2), Tokhtakulinova G(3), Bugibayeva A(2), Sundetova D(2), Abdykassymova M(2), 
+Sagalbayeva U(2), Bitemirova R(2), Yerkin Z(1).
+
+Author information:
+(1)Department of Big Data and Artificial Intelligence, Faculty of Information 
+Technology, Al-Farabi Kazakh National University, Almaty 050040, Kazakhstan.
+(2)Department of Internal Medicine, Faculty of Medicine and Healthcare, 
+Al-Farabi Kazakh National University, Almaty 050040, Kazakhstan.
+(3)Department of Strategic Research, Science Center of Obstetrics, Gynecology 
+and Perinatology, Almaty 050020, Kazakhstan.
+
+Background/Objectives: Aging and immune mechanisms play a key role in the 
+development of cardiovascular disease (CVD), especially in the context of 
+chronic inflammation. Therefore, in order to detect early aging in the elderly, 
+we have developed a prognostic model based on clinical and immunological markers 
+using machine learning. Methods: This paper analyzes the relationships between 
+immunological markers, clinical parameters, and lifestyle factors in individuals 
+over 60 years of age. A machine learning (ML) model including random forest, 
+logistic regression, k-nearest neighbors, and XGBoost was developed to predict 
+the aging rate and risk of CVD. Correlation anal is revealed significant 
+associations between immune markers (CD14+, HLA-DR, IL-10, CD8+), clinical 
+parameters (BMI, coronary heart disease, hypertension, diabetes), and behavioral 
+factors (physical activity, smoking, alcohol). Results: The results of the study 
+confirm that systemic inflammation, as reflected by markers such as CD14+, 
+HLA-DR, and IL-10, plays a central role in the pathogenesis of aging and related 
+diseases. CD14+ shows a moderate positive correlation with post-infarction 
+cardiosclerosis, accounting for 37%. HLA-DR correlates with body mass index at 
+39%. A negative association between IL-10 level and BMI was also found, where 
+the correlation reaches 52% (r = -0.52). The level of CD8+ cells shows a 
+negative correlation with smoking and their number, being 40%. Training was 
+performed on clinical and immunological data and models were evaluated using 
+accuracy, ROC-AUC, and F1-score metrics. Among all the trained models, the 
+XGBoost model performed best, achieving an accuracy of 91% and an area under the 
+ROC curve (AUC) of 0.8333. Conclusions: The study reveals significant 
+correlations between immunological markers and clinical parameters, which allows 
+the assessment of individual risks of premature cardiovascular aging. R (version 
+4.3.0) and specialized libraries for correlation matrix construction and 
+visualization were used for data analysis, and Python (version 3.11.11) was used 
+for model development and training.
+
+DOI: 10.3390/diagnostics15070850
+PMCID: PMC11988897
+PMID: 40218200
+
+Conflict of interest statement: The authors confirm that there are no conflict 
+of interest.
+
+
+4. J Ethnopharmacol. 2025 May 12;347:119741. doi: 10.1016/j.jep.2025.119741. Epub
+ 2025 Apr 10.
+
+Xin-shu-bao tablets ameliorates ventricular remodeling against HFrEF via 
+PPARγ/MFGE8 pathway based on MALDI-MSI and lipidomics.
+
+Zhang F(1), Li Z(2), Zhang Y(1), Yang J(1), Xiao H(1), Li X(3), Yang H(4).
+
+Author information:
+(1)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China.
+(2)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China; Chinese Pharmacology 
+College, Changchun University of Chinese Medicine, Changchun, Jilin, 130117, 
+China.
+(3)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China. Electronic address: 
+phd_xianyuli@foxmail.com.
+(4)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China; State Key Laboratory for 
+Quality Ensurance and Sustainable Use of Dao-di Herbs, China Academy of Chinese 
+Medical Sciences, Beijing, 100700, China. Electronic address: 
+hongjun0420@vip.sina.com.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Xin-shu-bao tablets (XSB), a traditional Chinese 
+medicine widely prescribed in China, have received approval for its role in 
+enhancing cardiac function in coronary heart disease patients. Lipid metabolism 
+plays a critical role in the onset and progression of ventricular remodeling in 
+heart failure with reduced ejection fraction (HFrEF). However, the 
+pharmacological mechanisms through which XSB influences lipid metabolism in the 
+context of ventricular remodeling with HFrEF have yet to be elucidated.
+AIM OF THE STUDY: The aim of the present study was to explore the potential of 
+XSB as an inhibitor of ventricular remodeling in patients with HFrEF and to 
+uncover the mechanisms by which XSB exerts myocardial protection via lipid 
+metabolism.
+MATERIALS AND METHODS: To investigate the cardioprotective effects of XSB on 
+HFrEF following myocardial infarction (MI), a murine model of MI generated by 
+ligating the left anterior descending artery. The myocardial protective effects 
+of XSB were evaluated through histological analysis of cardiac tissue and 
+quantification of serum biomarkers associated with myocardial injury. Cardiac 
+fibrosis was assessed using Masson's trichrome staining and Western blot 
+analysis. Apoptosis, efferocytosis, and inflammation were measured through TUNEL 
+staining, WB, and q-PCR in myocardial tissues. Differentially expressed 
+metabolites in the myocardium were identified using MALDI-MSI and lipidomics 
+analysis. Additionally, the involvement of the PPARγ/MFGE8 pathway in the 
+cardioprotective effects of XSB was explored using Western blot validation in 
+heart tissues. These approaches collectively aimed to elucidate the underlying 
+mechanisms by which XSB exerts its cardioprotective effects, particularly 
+through lipid metabolism.
+RESULTS: Our findings demonstrated that treatment with XSB significantly 
+attenuated structural and functional cardiac impairments, as indicated by 
+improvements in cardiac function and reductions in apoptosis, efferocytosis, 
+inflammation, and cardiac fibrosis in myocardial tissues. Specifically, XSB 
+markedly decreased the levels of pro-inflammatory cytokines, such as IL-6, 
+IL-10, and TNF-α. Additionally, XSB downregulated the expression of 
+apoptosis-related proteins BAX and Caspase-3, while increasing the expression of 
+the anti-apoptotic protein Bcl-2. Metabolomic analyses using MALDI-MSI and 
+lipidomics revealed that XSB suppressed the elevated levels of glycerol 
+phospholipids, such as PC(16:1e_22:5), PI(18:0_20:4), PI(18:2_20:4), 
+PC(16:0e_22:4), LPS(18:0), PI(16:0_18:2), PC(19:0_22:6), and PS(18:1_22:6) in 
+myocardial tissues. Furthermore, XSB modulated the expression of key proteins 
+associated with lipid metabolism, including upregulation of PPARγ and SLC27A1, 
+and downregulation of MFGE8, MERTK, and GSN. These results suggest that XSB 
+exerts its cardioprotective effects through modulation of lipid metabolism and 
+related signaling pathways.
+CONCLUSIONS: XSB demonstrate cardioprotective effects by improving cardiac 
+function and modulating ventricular remodeling processes in mice with HFrEF. 
+These processes involve attenuation of inflammation, apoptosis, efferocytosis, 
+and cardiac fibrosis. The cardioprotective mechanisms of XSB are mediated 
+through the regulation of lipid metabolism via the PPARγ/MFGE8 signaling 
+pathway.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2025.119741
+PMID: 40216048 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Prostaglandins Other Lipid Mediat. 2025 Jun;178:106990. doi: 
+10.1016/j.prostaglandins.2025.106990. Epub 2025 Mar 29.
+
+Decreased plasma lipoxin A4, resolvin D1, protectin D1 are correlated with the 
+complexity and prognosis of coronary heart disease: A retrospective cohort 
+study.
+
+Wang YF(1), Zhu XT(1), Hu ZP(2).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Anhui Medical 
+University, Hefei, Anhui 230022, China.
+(2)Department of Cardiology, The First Affiliated Hospital of Anhui Medical 
+University, Hefei, Anhui 230022, China. Electronic address: 
+huzepingahmu@sina.com.
+
+This study aimed to assess the predictive capacity of specialized pro-resolving 
+mediators (SPMs) regarding the complexity and prognosis of coronary heart 
+disease (CHD). Total of 602 CHD patients were included in this study and 
+categorized into low-risk, medium-risk, and high-risk groups based on the 
+Synergy Between Percutaneous Coronary Intervention with Taxus and Cardiac 
+Surgery (SYNTAX) score. Follow-up was conducted for two years, during which 
+patients were dichotomized into poor and good prognosis groups. Additionally, 
+twenty healthy controls were incorporated. Plasma concentrations of lipoxin A4 
+(LXA4), resolvin D1 (RvD1), protectin D1 (PD1), C-reactive protein (CRP), 
+interleukin-6 (IL-6), and IL-10 were quantified. Plasma LXA4, RvD1, PD1, and the 
+ratios LXA4/IL-6, RvD1/IL-6, PD1/IL-6 exhibited a gradual decrease across 
+control, low-risk, medium-risk, and high-risk groups and exhibited a negative 
+correlation with the SYNTAX score. Spearman's correlation analysis revealed 
+negative correlations between plasma LXA4, RvD1, PD1, and both CRP and IL-6, and 
+positive correlations with IL-10. Multiple linear regression models demonstrated 
+negative associations between plasma LXA4, RvD1, PD1, and SYNTAX score. 
+Moreover, both univariate and multivariate binary logistic regression analyses 
+identified plasma LXA4, RvD1, and PD1 as protective factors against 
+medium/high-risk SYNTAX score categorization. In the poor prognosis group, 
+plasma PD1 was reduced at short-term follow-up, and the ratios LXA4/IL-6, 
+RvD1/IL-6, PD1/IL-6 were reduced at long-term follow-up. Plasma LXA4, RvD1, and 
+PD1 demonstrated negative correlations with CHD complexity and potentially 
+served as protective factors against CHD. Plasma PD1 provided predictive value 
+for short-term prognosis, while the ratios LXA4/IL-6, RvD1/IL-6, PD1/IL-6 were 
+indicative for long-term prognosis.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.prostaglandins.2025.106990
+PMID: 40164347 [Indexed for MEDLINE]
+
+=== Gene: NLRP3 ===
+1. Front Pharmacol. 2025 Jun 3;16:1566622. doi: 10.3389/fphar.2025.1566622. 
+eCollection 2025.
+
+Trapidil attenuates diabetic cardiomyopathy via GPX3/Nrf2-mediated inhibition of 
+myocardial pyroptosis.
+
+Wang Z(#)(1), Sun Y(#)(1), Wang J(1), Xu Q(2), Wang L(1), Zhang Q(1), Song J(1), 
+Wang Y(1), Qi Z(1).
+
+Author information:
+(1)College of Pharmacy, Qiqihar Medical University, Qiqihar, Heilongjiang, 
+China.
+(2)College of Nursing, Qiqihar Medical University, Qiqihar, Heilongjiang, China.
+(#)Contributed equally
+
+BACKGROUND: Currently, there is a paucity of clinically effective medications 
+for the treatment of diabetic cardiomyopathy (DCM), while the strategy of drug 
+repurposing offers a promising avenue for advancing therapeutic development.
+METHODS: The investigation explored the ameliorative effects and uncovered 
+underlying mechanisms of trapidil (TRA), a drug commonly employed in the 
+management of coronary heart disease, on DCM by inhibiting myocardial 
+pyroptosis. Type 1 DCM models were established utilizing C57BL/6 mice and 
+primary neonatal mouse cardiomyocytes (NMCMs), which were subsequently treated 
+with TRA.
+RESULTS: Results demonstrated that in DCM mice, TRA significantly enhanced 
+cardiac function, effectively alleviated pathological changes in myocardial 
+tissue, reversed ultrastructural alterations, and reduced pyroptosome formation 
+in myocardial cells. TRA significantly increased the body weight of the mice in 
+the DCM model group, whereas there was no significant alteration in blood 
+glucose levels following TRA treatment. In the myocardial tissue of DCM mice and 
+high-glucose (HG)-treated NMCMs, TRA was found to correct the aberrant 
+expression of key proteins involved in pyroptosis, including cleaved-caspase1, 
+NLRP3, phospho-NF-κB cyclooxygenase-2, interleukin Cleaved-IL-1β, Cleaved-IL-18, 
+and gasdermin D. Furthermore, TRA effectively curtailed the excessive production 
+of ROS and augmented the mitochondrial membrane potential in NMCMs under the HG 
+environment. Proteomics analysis identified 90 differentially expressed proteins 
+between DCM mice and TRA-treated mice, with glutathione peroxidase 3 (GPX3) 
+emerging as a standout due to its critical role in the cellular antioxidant 
+defense system. Further investigations revealed that the protein and mRNA levels 
+of GPX3, as well as the activated Nrf2 protein levels, were significantly 
+downregulated in the myocardial tissue of DCM mice and HG-treated NMCMs cells. 
+However, these levels were notably upregulated following TRA treatment. Upon 
+knocking down GPX3 mRNA expression using siRNA technology, the anti-pyroptotic 
+effect of TRA in cardiomyocytes was markedly diminished, and the level of 
+activated Nrf2 protein also significantly decreased.
+CONCLUSION: In conclusion, TRA holds potential for improving DCM, with the 
+inhibition of myocardial pyroptosis via the GPX3/Nrf2 pathway playing a pivotal 
+role. HG-induced Downregulation of the GPX3/Nrf2 pathway is a critical mechanism 
+underlying pyroptosis in DCM. This pathway can be targeted for the design of 
+DCM-related therapeutics, utilizing the aforementioned signaling mechanisms.
+
+Copyright © 2025 Wang, Sun, Wang, Xu, Wang, Zhang, Song, Wang and Qi.
+
+DOI: 10.3389/fphar.2025.1566622
+PMCID: PMC12170559
+PMID: 40529489
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Int Immunopharmacol. 2025 May 27;156:114732. doi:
+10.1016/j.intimp.2025.114732.  Epub 2025 Apr 27.
+
+Colchicine inhibits myocardial pyroptosis and reduces myocardial cell injury 
+after myocardial infarction through the ESR1-PI3K-Akt-NF-κB signaling pathway.
+
+Chen Y(1), Bao S(1), Ding Y(2), Weng G(1), Zheng S(1), Ge C(3), Zhang C(4).
+
+Author information:
+(1)Department of Cardiovascular Surgery, The First Affiliated Hospital of Anhui 
+Medical University, Hefei, Anhui 230022, China.
+(2)Department of Pharmacy, the First Affiliated Hospital of Anhui Medical 
+University, School of Pharmacy, Anhui Medical University, Hefei, China.
+(3)The Grade 3 Pharmaceutical Chemistry Laboratory of State Administration of 
+Traditional Chinese Medicine, Hefei, China.
+(4)Department of Cardiovascular Surgery, The First Affiliated Hospital of Anhui 
+Medical University, Hefei, Anhui 230022, China. Electronic address: 
+zhangchengxin@ahmu.edu.cn.
+
+BACKGROUND AND PURPOSE: Inflammation serves as a critical driver in coronary 
+artery disease pathogenesis. Emerging clinical evidence demonstrates that 
+low-dose colchicine therapy significantly reduces ischemic event incidence in 
+patients with coronary heart disease while attenuating myocardial 
+ischemia-induced inflammatory cascades. Nevertheless, the precise 
+cardioprotective mechanisms underlying colchicine-a plant-derived 
+anti-inflammatory agent-in limiting post-infarction cardiomyocyte injury remain 
+incompletely elucidated. This study systematically investigates colchicine's 
+myocardial preservation mechanisms through an integrated experimental approach.
+METHOD: To establish experimental models of myocardial injury, we performed 
+permanent ligation of the left anterior descending coronary artery (LAD) in mice 
+for in vivo studies, while HL-1 mouse atrial cardiomyocytes were treated with 
+0.3 mM H₂O₂ to induce oxidative stress in vitro. Following successful model 
+validation, colchicine was administered to both systems. Comprehensive 
+evaluations included echocardiographic assessment of cardiac function, 
+histological examination of inflammatory infiltration and collagen deposition 
+through H&E and Masson's trichrome staining respectively, quantitative analysis 
+of cardiomyocyte apoptosis by flow cytometry, and Western blot detection of key 
+signaling pathway components and pyroptosis-related proteins (including NLRP3, 
+caspase-1, and GSDMD).
+RESULT: Our experimental data revealed that colchicine treatment significantly 
+attenuated myocardial injury and fibrosis while improving cardiac function 
+(P < 0.05). Mechanistically, colchicine administration reduced proinflammatory 
+cytokine release (IL-1β and IL-18), decreased neutrophil infiltration, and 
+suppressed cardiomyocyte pyroptosis. These cardioprotective effects were 
+associated with modulation of the ESR1-PI3K-Akt-NF-κB signaling pathway 
+(P < 0.05), suggesting a potential therapeutic mechanism for colchicine in 
+myocardial protection.
+CONCLUSION: Colchicine inhibits myocardial pyroptosis and reduces myocardial 
+cell injury after myocardial infarction through the ESR1-PI3K-Akt-NF-κB 
+signaling pathway.
+
+Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2025.114732
+PMID: 40294468 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Minerva Cardiol Angiol. 2025 Mar 28. doi: 10.23736/S2724-5683.24.06618-3.
+Online  ahead of print.
+
+Diagnostic performance of RAC2 combined with CT-FFR parameters in coronary heart 
+disease.
+
+Zhu Z(1), Xu J(1), Wang H(1), Jin W(1), Liu M(2).
+
+Author information:
+(1)Department of Radiology, No. 903 Hospital of PLA Joint Logistic Support 
+Force, Hangzhou, China.
+(2)Department of Radiology, No. 903 Hospital of PLA Joint Logistic Support 
+Force, Hangzhou, China - liumiao903th@163.com.
+
+BACKGROUND: The incidence and mortality of coronary heart disease (CHD) are high 
+in the elderly population. CT fractional flow reserve (CT-FFR) is a potential 
+diagnostic technique for cardiovascular diseases. In order to mine valuable 
+biomarkers to combine CT-FFR parameters to improve the diagnostic accuracy of 
+CHD.
+METHODS: In this study, GEO database was used to screen the key genes of CHD. 
+GraphPad software was used to construct receiver operating characteristic (ROC) 
+curve, and SPSS software was used for logistic regression analysis. Inflammatory 
+cell model was constructed by treating human cardiac microvascular endothelial 
+cells (HMVEC-Cs) with TNF-α to explore the role of RAC2 in this process.
+RESULTS: Real time quantitative PCR (RT-qPCR) results showed high-expression of 
+RAC2 in CHD patients, which were reversed after nitric ester drug therapy. The 
+analysis of ROC curves displayed that RAC2 combined with CT-FFR had a higher 
+diagnostic value for CHD (AUC=0.971, 95% CI 0.950-0.992) compared to the single 
+factor, and RAC2 was an independent risk factor for poor prognosis in CHD 
+patients treated with nitric ester drugs (AUC=0.888, 95% CI 0.814-0.961, 
+P<0.001). Overexpression of RAC2 further enhanced the elevated expression levels 
+of NF-κB, NLRP3, IL-1β, and IL-6, induced by TNF-α, and its silence had the 
+opposite effect.
+CONCLUSIONS: RAC2 promoted the inflammatory response of HMVEC-Cs and predicted a 
+poor prognosis in CHD patients. The combination of RAC2 and CT-FFR parameters 
+was a good classifier for diagnosing CHD.
+
+DOI: 10.23736/S2724-5683.24.06618-3
+PMID: 40152034
+
+
+4. Curr Protein Pept Sci. 2025;26(6):480-492. doi: 
+10.2174/0113892037338952241113104224.
+
+The Expression Characteristics and Interrelationships of FNDC5 and 
+Pyroptosis-Associated Molecules in the Peripheral Blood of Patients with 
+Coronary Heart Disease.
+
+Pan Y(1)(2), Ou H(2), Liu D(2).
+
+Author information:
+(1)School of Clinical Medicine, Guizhou Medical University, Guiyang, Guizhou, 
+550004, China.
+(2)Department of Cardiology, The Affiliated Hospital of Guizhou Medical 
+University, Guiyang, Guizhou, 550004, China.
+
+OBJECTIVES: The aim of this study was to investigate the expression 
+characteristics and interrelationships of FNDC5 and pyroptosis-associated 
+molecules in peripheral blood mononuclear cells of patients with coronary heart 
+disease (CHD).
+METHODS: Patients were divided into stable angina (SA), unstable angina (UA), 
+and acute myocardial infarction (AMI) groups based on different clinical 
+symptoms. According to the Gensini score, they were then divided into mild, 
+moderate, and severe lesion groups. The control (NC) group was also set. ELISA 
+assay was employed to detect the levels of Irisin, IL-1β, and IL-18, and the 
+levels of pyroptosis-associated molecules, NF-κB p50, NF-κB p65, and FNDC5 were 
+detected and compared by qRT-PCR and Western blot (WB). Logistic regression and 
+Spearman's partial correlation analysis were used to analyze the pathogenic 
+factors of CHD and explore the interrelationships between FNDC5 and the 
+molecules.
+RESULTS: IL-1β and IL-18 of CHD patients were increased, while the Irisin was 
+decreased. With the aggravation of symptoms and severity of coronary artery 
+stenosis, the former increased, and the Irisin gradually decreased (P<0.05). 
+About qRT-PCR and WB: With the aggravation of symptoms, the levels of 
+pyroptosis-associated molecules and other indicators were increased, and FNDC5 
+was decreased (Pπ0.05). NLRP3, Caspase-1, and NF-κB p50 protein were positively 
+correlated with the incidence of CHD, and FNDC5 was also negatively correlated 
+with that of CHD. Even when common risk factors for CHD were taken into account, 
+FNDC5 and NLRP3 were still found to be negatively connected.
+CONCLUSION: The decreased expression level of FNDC5 and the increased level of 
+pyroptosis-associated molecules may be related to CHD.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0113892037338952241113104224
+PMID: 39810517 [Indexed for MEDLINE]
+
+
+5. Immunopharmacol Immunotoxicol. 2024 Dec;46(6):902-911. doi: 
+10.1080/08923973.2024.2421528. Epub 2024 Nov 5.
+
+Cardioprotective effect of tofisopam against isoprenaline-induced myocardial 
+infarction in rats via modulation of NLRP3\IL-1β\caspase-1 pathway.
+
+Abdelmonaem AA(1), Abdel-Aziz AM(1), Ibrahim YF(1), Abdelzaher WY(1), Amgad 
+Mohammed N(2), Marey H(3), S Taghian A(4), Setouhi A(5), Radi A(5), Ahmed SM(1).
+
+Author information:
+(1)Department of Pharmacology, Faculty of Medicine, Minia University, Minia, 
+Egypt.
+(2)Department of Histology and Cell Biology, Faculty of Medicine, Minia 
+University, Minia, Egypt.
+(3)Department of Biochemistry, Faculty of Medicine, Minia University, Minia, 
+Egypt.
+(4)Department of Forensic Medicine and Clinical Toxicology, Faculty of Medicine, 
+Minia University, Minia, Egypt.
+(5)Department of Cardiology, Faculty of Medicine, Minia University, Minia, 
+Egypt.
+
+PURPOSE: Cardiovascular diseases (CVDs) are a leading cause of morbidity and 
+mortality worldwide. Ischemic heart diseases, particularly acute myocardial 
+infarction (MI), represent the most common cause of death. MI is influenced by 
+multiple factors, including the release of inflammatory mediators. A significant 
+percentage of individuals with CVD experience psychological effects, such as 
+anxiety and depression, which are linked to an increased risk of coronary heart 
+disease. Certain anti-anxiety medications have demonstrated immunomodulatory and 
+anti-inflammatory effects. Tofisopam, a 2,3-benzodiazepine with anxiolytic 
+properties, has been shown to exert in vitro anti-inflammatory and 
+immunomodulatory effects. The present study investigates the potential of 
+tofisopam as a protective adjuvant against isoprenaline-induced MI in rats and 
+explores the possible underlying mechanisms.
+METHODS: The study included four groups: a control group, a group pretreated 
+with tofisopam, an isoprenaline toxic group, and an isoprenaline toxic group 
+pretreated with tofisopam.
+RESULTS: The findings demonstrated that isoprenaline significantly increased 
+cardiac enzyme levels, as well as elevated oxidative and inflammatory stress 
+parameters, along with evident apoptosis in cardiac cells. In contrast, the 
+tofisopam-pretreated group showed a significant reversal of the cardiac damage 
+induced by isoprenaline.
+CONCLUSIONS: Tofisopam protects against isoprenaline-induced MI through its 
+antioxidant, anti-inflammatory, and anti-apoptotic properties.
+
+DOI: 10.1080/08923973.2024.2421528
+PMID: 39448368 [Indexed for MEDLINE]
+
+=== Gene: ICOS ===
+No results found.
+
+
+=== Gene: TLR2 ===
+1. Curr Med Chem. 2024 Sep 5. doi: 10.2174/0109298673309995240829060533. Online 
+ahead of print.
+
+Interplay between Pro-inflammatory Mediators and Oxidative Stressinvolved 
+Recurrent Chronic Heart Failure in Elderly Patients with Coronary Stents.
+
+Li X(1), Zhao Y(1), Zhou H(2), Hu Y(2), Chen Y(2), Guo D(1).
+
+Author information:
+(1)Xiamen Road Branch Hospital, The Affiliated Huaian Hospital of Xuzhou Medical 
+University, Huaian, 223005, China.
+(2)Department of Geriatrics, The Affiliated Huaian Hospital of Xuzhou Medical 
+University, Huaian, 223002, China.
+
+INTRODUCTION: Inflammation and oxidative stress are related to congestive heart 
+failure in patients with coronary heart disease.
+OBJECTIVE: Chronic congestive heart failure is a serious stage of coronary 
+artery disease and is mainly a disease of elderly people over the age of 65. 
+Elderly heart failure patients are characterized by myocardial ischemia, and 
+post-ischemic myocardial dysfunction. Oxidative Stress, inflammation, and immune 
+response play important roles in the development of heart failure. We tried to 
+examine the mutual triggering of oxidative stress (malondialdehyde), 
+inflammatory cytokines (tumor necrosis factor-α and soluble tumor necrosis 
+factor receptor-1/2), immune response (toll-like receptors 2,3,4), and high 
+sensitivity C-reactive protein expression in elderly patients with recurrent 
+congestive heart failure after coronary stenting and investigated the effect of 
+interplay of these changes on onset and progression of recurrent congestive 
+heart failure in elderly patients underwent coronary stent implantation.
+METHODS: A total of 726 patients were enrolled in this study. We determined the 
+levels of malondialdehyde (MDA), high sensitivity C-reactive protein (hs-CRP), 
+tumor necrosis factor-α (TNF- α), soluble tumor necrosis factor receptor-1 and 2 
+(sTNFR-1/2) and toll-like receptor 2,3,4 (TLR2/3/4) in elderly patients with 
+recurrent congestive heart failure after coronary artery stent implantation.
+RESULTS: Levels of MDA, hs-CRP, TNF-α, sTNFR-1, sTNFR-2, TLR2, TLR3 and TLR4 
+were remarkably increased (p<0.01) in elderly patients with recurrent congestive 
+heart failure after coronary artery stenting. The results indicated that these 
+markers were closely correlated to each other and showed that these markers were 
+associated with increased New York Heart Association functional classification 
+and low left ventricular ejection fractions. Further analysis confirmed that the 
+independent clinical risk factors for recurrent congestive heart failure were 
+MDA, hs-CRP, TNF-α, sTNFR-1, sTNFR-2, TLR2, TLR3 and TLR4. The interplay of 
+oxidative stress, inflammatory cytokines and toll-like receptors, and hs-CRP 
+expression levels was an important factor involved in recurrent congestive heart 
+failure of elderly patients after coronary stenting.
+CONCLUSION: High levels of MDA, hs-CRP, TNF-α, sTNFR-1, sTNFR-2, TLR2, TLR3 and 
+TLR4 had an important implication for recurrent heart failure with increased New 
+York Heart Association functional classification and low left ventricular 
+ejection fractions. These eight factors amplified each other's positive effects 
+and this interaction may be a key element of their roles in recurrent heart 
+failure. The eight risk factors were inter-dependent and occurred 
+simultaneously, and exerted detrimental effects forming a vicious circle. MDA 
+may trigger the over-expressions of pro-inflammatory risk factors (hs-CRP, 
+TNF-α, sTNFR-1, sTNFR-2) through the activation of TLRs as risk factors (TLR2, 
+TLR3 and TLR4) contributing to the dysfunction of myocardial mitochondria, 
+cardiomyocyte hypertrophy, maladaptive myocardial remodeling, myocardial 
+interstitial fibrosis, cardiac systolic decrease and recurrent heart failure. 
+These eight risk factors were the basis of the mechanisms of recurrent heart 
+failure. Therefore, the mutual triggering of oxidative stress, inflammatory and 
+toll-like receptor signaling pathways, and hs-CRP expression could play key 
+roles in the development of recurrent congestive heart failure in elderly 
+patients after coronary stenting.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0109298673309995240829060533
+PMID: 39238392
+
+
+2. Adv Gerontol. 2024;37(3):259-265.
+
+[Hyaluronan receptors: role in aging and age-associated processes.].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Khabarov VN(1), Drobintseva AO(2)(3), Kvetnaya TV(4), Mironova ES(3)(4), 
+Zubareva TS(3)(4).
+
+Author information:
+(1)Scientific Research Center of Hyaluronic Acid, 38/16 Komsomolsky pr., Moscow 
+119146, Russian Federation.
+(2)Saint-Petersburg State Pediatric Medical University, 2 Litovskaya str., St. 
+Petersburg 194100, Russian Federation, e-mail: anna.drobintseva@gmail.com.
+(3)Saint-Petersburg Research Institute of Phthisiopulmonology, 2-4 Ligovsky pr., 
+St. Petersburg 191063, Russian Federation.
+(4)Saint-Petersburg Institute of Bioregulation and Gerontology, 3 Dinamo pr., 
+St. Petersburg 197110, Russian Federation.
+
+The review describes the involvement of various hyaluronic acid receptors, 
+including CD44, RHAMM, HARE, TLR, LYVE-1, in maintaining normal homeostasis and 
+aging, as well as in the development of age-associated inflammatory processes 
+(inflamaging) and malignant tumors. The association of CD44 receptor activation 
+with immune cells and the development of coronary heart disease has been shown. 
+In addition, a link between the CD44 receptor and osteoarthritis has been shown, 
+via TLR2 and TLR4. The oncogenic potential of RHAMM in relation to breast, 
+prostate, leukemia, pancreas, lung and glioblastoma cancers has been described, 
+with the strongest expression observed in metastatic tumors. In vivo and in 
+vitro experiments, it was found that fragments of hyaluronic acid with a length 
+of 4 to 25 disaccharides can contribute to the proliferation of lymphatic 
+endothelial cells and lymphangiogenesis. Thus, hyaluronic acid receptors play an 
+important role in the aging process through the regulation of inflamaging and in 
+the development of malignant neoplasms.
+
+Publisher: В обзоре описано участие разнообразных рецепторов гиалуроновой 
+кислоты, включая CD44, RHAMM, HARE, TLR, LYVE-1, в поддержании гомеостаза в 
+норме и при старении, а также в развитии возраст-ассоциированных воспалительных 
+процессов (инфламэйджинга) и злокачественных опухолей. Показана связь активации 
+рецепторов CD44 c иммунными клетками и развитием ИБС. Кроме того, показана связь 
+рецептора CD44 и остеоартрита, через TLR2 и TLR4. Описан онкогенный потенциал 
+RHAMM в отношении рака молочной железы, предстательной железы, лейкемии, 
+поджелудочной железы, легких и глиобластомы, причем наиболее сильную экспрессию 
+наблюдают в метастатических опухолях. В экспериментах in vivo и in vitro 
+установлено, что фрагменты гиалуроновой кислоты длиной 4–25 дисахаридов могут 
+способствовать пролиферации лимфатических эндотелиальных клеток и 
+лимфангиогенезу. Таким образом, рецепторы гиалуронанов играют важную роль в 
+процессах старения через регуляцию инфламэйджинга и в развитии злокачественных 
+новообразований.
+
+PMID: 39139118 [Indexed for MEDLINE]
+
+
+3. Int Immunopharmacol. 2021 Jun;95:107582. doi: 10.1016/j.intimp.2021.107582.
+Epub  2021 Mar 25.
+
+Simvastatin mitigates depressive-like behavior in ovariectomized rats: Possible 
+role of NLRP3 inflammasome and estrogen receptors' modulation.
+
+Menze ET(1), Ezzat H(2), Shawky S(2), Sami M(2), Selim EH(2), Ahmed S(2), Maged 
+N(2), Nadeem N(2), Eldash S(2), Michel HE(3).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, Faculty of Pharmacy, Ain Shams 
+University, Cairo, Egypt.
+(2)Faculty of Pharmacy, Ain Shams University, Cairo, Egypt.
+(3)Department of Pharmacology and Toxicology, Faculty of Pharmacy, Ain Shams 
+University, Cairo, Egypt. Electronic address: heidieffat@pharma.asu.edu.eg.
+
+It is well known that females are more vulnerable than males to stress-related 
+psychiatric disorders, particularly during perimenopausal and postmenopausal 
+periods. Hormone replacement therapy (HRT) has been widely used for the 
+management of postmenopausal depression. However, HRT could be associated with 
+severe adverse effects, including increased risk for coronary heart disease, 
+breast cancer and endometrial cancer. Thus, there is a pressing demand for novel 
+therapeutic options for postmenopausal depression without sacrificing uterine 
+health. Simvastatin (SIM) was proven to have neuroprotective activities besides 
+its hypocholesterolemic effect, the former can be attributed to its, 
+antioxidant, anti-apoptotic and anti-inflammatory activities. Moreover, many 
+reports highlighted that SIM has estrogenic activity and was able to induce the 
+expression of estrogen receptors in rats. The present study showed that SIM 
+(20 mg/kg, p.o.) markedly attenuated depressive-like behavior in ovariectomized 
+(OVX) rats. Moreover, SIM prohibited hippocampal microglial activation, 
+abrogated P2X7 receptor, TLR2 and TLR4 expression, inhibited NLRP3 inflammasome 
+activation, with subsequent reduction in the levels of pro-inflammatory 
+mediators; IL-1β and IL-18. Furthermore, a marked elevation in hippocampal 
+expression of ERα and ERβ was noted in SIM-treated animals, without any 
+significant effect on uterine relative weight or ERα expression. Taken together, 
+SIM could provide a safer alternative for HRT for the management of 
+postmenopausal depression, without any hyperplastic effect on the uterus.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2021.107582
+PMID: 33774267 [Indexed for MEDLINE]
+
+
+4. IUBMB Life. 2020 May;72(5):1023-1033. doi: 10.1002/iub.2239. Epub 2020 Feb 5.
+
+Oxidative stress and inflammation: Early predictive indicators of multiple 
+recurrent coronary in-stent chronic total occlusions in elderly patients after 
+coronary stenting.
+
+Li X(1), Zhou H(1), Guo D(1), Hu Y(1), Fang X(1), Chen Y(1), Zhang F(1).
+
+Author information:
+(1)Department of Geriatrics, The Affiliated Huai'an Hospital of Xuzhou Medical 
+University, Huai'an, China.
+
+Pro-inflammatory responses and oxidative stress damages, and effects of the 
+reduced anti-oxidation and anti-inflammation were involved in development and 
+progression of coronary heart disease. We tried to identify the effects of 
+pro-inflammatory and oxidative stress biomarkers as well as anti-oxidant and 
+anti-inflammatory factors on multiple recurrent coronary in-stent chronic total 
+occlusions in elderly patients after coronary stenting. We determined the 
+expression levels of endothelial progenitor cell (EPC), stromal cell-derived 
+factor-1α (SDF-1α), vascular endothelial growth factor (VEGF), nitric oxide 
+(NO), toll-like receptor 2 (TLR2), toll-like receptor 3 (TLR3), toll-like 
+receptor 4 (TLR4), and soluble ST2 (sST2) in elderly patients with multiple 
+recurrent coronary in-stent chronic total occlusions after coronary stenting. 
+The levels of EPC, SDF-1α, VEGF, and NO were decreased in elderly patients with 
+multiple recurrent coronary in-stent chronic total occlusions (p < .001). The 
+levels of TLR2, TLR3, TLR4, and sST2 were increased in elderly patients with 
+multiple recurrent coronary in-stent chronic total occlusions (p < .001). The 
+oxidative stress damages and pro-inflammatory responses played the crucial roles 
+in multiple recurrent coronary in-stent chronic total occlusions of elderly 
+patients after coronary stent placement. The levels of TLR2, TLR3, TLR4, and 
+sST2, and the expressions of EPC, SDF-1α, VEGF, and NO could be considered as 
+potential early predictive indicators for multiple recurrent coronary in-stent 
+chronic total occlusions in elderly patients after coronary stent implantation.
+
+© 2020 International Union of Biochemistry and Molecular Biology.
+
+DOI: 10.1002/iub.2239
+PMID: 32022379 [Indexed for MEDLINE]
+
+
+5. Exp Ther Med. 2019 Sep;18(3):2346-2352. doi: 10.3892/etm.2019.7805. Epub 2019 
+Jul 24.
+
+Correlation between coronary stenosis and Toll-like receptors 2 and 4 levels in 
+Chinese Zhuang patients with coronary heart disease.
+
+Huang Z(1)(2), Liu Y(1)(2), Liang L(2), Liu W(2), Sooranna SR(3), Mo J(2), Liu 
+L(2), Li Z(2), Li K(2), Guo J(1).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Jinan University, 
+Guangzhou, Guangdong 510630, P.R. China.
+(2)Department of Cardiology, Affiliated Hospital of Youjiang Medical University 
+for Nationalities, Baise, Guangxi 533000, P.R. China.
+(3)Department of Surgery and Cancer, Imperial College London, Chelsea and 
+Westminster Hospital, London SW10 9NH, UK.
+
+The present study attempted to determine the correlation of the degree of 
+coronary artery stenosis and Tolllike receptor 2/4 (TLR2/4) levels in Chinese 
+Zhuang patients with coronary heart disease (CHD). A total of 466 Chinese 
+patients from the Zhuang Ethnic population diagnosed with CHD at the Department 
+of Cardiology the Affiliated Hospital of Youjiang Medical University between 
+January 2016 and August 2017, together with 102 control patients, were recruited 
+for the present study. The patients with CHD were divided into three groups 
+depending on the number of diseased arteries. The patients with CHD were also 
+classified according to their Gensini scores. Blood liver and renal function 
+parameters, as well as blood sugar and lipid levels were measured. ELISA was 
+used for TLR2/4 measurements. There were no significant differences with gender, 
+age and body mass index between the CHD and control groups. The levels of TLR2/4 
+in the peripheral blood of the control and CHD groups were 2.34±0.85/5.08±2.41 
+and 5.22±3.16/9.33±4.92 ng/ml, respectively, and the differences were 
+significant (P<0.001). Analysis of the three subgroups of vessel disease 
+indicated that the expression of TLR2/4 was progressively higher with the 
+increase in the number of affected vessels (P<0.01). There were also significant 
+differences between the mild, moderate and severe stenosis groups (P<0.01). A 
+positive linear correlation between TLR2/4 and the Gensini coronary artery score 
+was identified (r=0.508 and 0.346, respectively; P<0.0001). In conclusion, the 
+present study determined a positive correlation between the degree of coronary 
+artery stenosis and the expression level of TLR2/4 in the serum of Chinese 
+Zhuang patients with CHD. Serum TLR2/4 may be used to predict the severity of 
+CHD.
+
+DOI: 10.3892/etm.2019.7805
+PMCID: PMC6704546
+PMID: 31452718
+
+=== Gene: CD80 ===
+1. Mediators Inflamm. 2021 Mar 27;2021:5568159. doi: 10.1155/2021/5568159. 
+eCollection 2021.
+
+Effect of GLP-1/GLP-1R on the Polarization of Macrophages in the Occurrence and 
+Development of Atherosclerosis.
+
+Yang L(1), Chen L(1), Li D(1), Xu H(1), Chen J(1), Min X(1), He M(2), Wu T(2), 
+Zhong J(3), Yang H(1), Chen J(1).
+
+Author information:
+(1)Affiliated Dongfeng Hospital, Hubei University of Medicine, Shiyan, China.
+(2)School of Public Health, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, China.
+(3)Department of Rheumatology and Immunology, Tongji Hospital, Huazhong 
+University of Science and Technology, Wuhan, China.
+
+AIMS: To investigate the effect of GLP-1/GLP-1R on the polarization of 
+macrophages in the occurrence and development of atherosclerosis.
+METHODS: Totally, 49 patients with coronary heart disease (CHD) and 52 cases of 
+health control (HC) were recruited, all subjects accept coronary angiography 
+gold standard inspection. One or more major coronary arteries (LM, LAD, LCx, and 
+RCA) stenosis degree in 50% of patients as CHD group; the rest of the stenosis 
+less than 50% or not seen obvious stenosis are assigned to the HC group. Flow 
+cytometry were used to detect the percentage of (CD14+) M macrophages, 
+(CD14+CD80+) M1 macrophages, (CD14+CD206+) M2 macrophages, and their surface 
+GLP-1R expression differences in the two groups, using BD cytokine kit to detect 
+the levels of IL-8, IL-1β, IL-6, IL-10, TNF, and IL-12p70.
+RESULTS: GLP-1R expression on the surface of total macrophages and M2 
+macrophages was different between the CHD group and the HC group (P < 0.05). 
+There was no difference in the percentage of total, M1 or M2 macrophages (P > 
+0.05). Concentration of IL-8 in the HC group was higher than that in the CHD 
+group (P < 0.05). There is no significant difference in the cytokine IL-1β, 
+IL-6, IL-10, TNF, and IL-12p70 in the two groups (P > 0.05). After controlling 
+for potential confounders including age, gender, smoking status (S.S.), drinking 
+status (D.S.), HR, SBP, DBP, PP, TC, TG, HDL-C, LDL-C, GHbA1c, M, M1, M2, 
+GLP-1R_M, GLP-1R_M1, GLP-1R_M2, IL-8, IL-1β, IL-6, IL-10, TNF, and IL-12p70 by 
+multiple linear regression, decreasing Gensini Score was significantly 
+associated with increased percentage of M1 macrophage.
+CONCLUSION: GLP-1R agonist is independent of the hypoglycemic effect of T2DM and 
+has protective effect on cardiovascular system. GLP-1R may regulate the 
+polarization of macrophages toward M2, thus playing a protective role in the 
+progression of coronary atherosclerosis.
+
+Copyright © 2021 Li Yang et al.
+
+DOI: 10.1155/2021/5568159
+PMCID: PMC8019627
+PMID: 33854404 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.
+
+
+2. Cell Physiol Biochem. 2013;32(4):931-41. doi: 10.1159/000354496. Epub 2013 Oct
+ 1.
+
+Kruppel-like factor 2 regulates dendritic cell activation in patients with acute 
+coronary syndrome.
+
+Fang H(1), Lin J, Wang L, Xie P, Wang X, Fu J, Ai W, Chen S, Chen F, Zhang F, Su 
+Y, Li D.
+
+Author information:
+(1)Department of Cardiology, Shenzhen Sixth People's Hospital (Nanshan 
+Hospital), Huazhong University of Science and Technology, Union Shenzhen 
+Hospital, Shenzhen, China.
+
+OBJECTIVE: Dendritic cells (DCs) activation is important in atherosclerosis and 
+coronary heart disease, but the mechanisms regulating activation of dendritic 
+cells remain largely unclear. The aim of this study was to evaluate the effect 
+of transcription factor Kruppel-like factor 2 (KLF2) in the proinflammatory 
+activation of DCs in acute coronary syndrome.
+METHODS AND RESULTS: In this study, the expression of CD80 and KLF2 was detected 
+in DCs in normal health controls, patients with stable angina (SA), and acute 
+coronary syndrome (ACS). Our study found that compared with normal control and 
+SA, KLF2 expression in DCs is reduced in patients with ACS. Moreover, the 
+surface expression of CD80 was increased in ACS. In vitro experiment, we found 
+that ox-LDL could increase CD80 expression and decrease KLF2 expression. 
+Furthermore, down-regulated KLF2 could in turn increase CD80 expression via 
+NF-κB pathway.
+CONCLUSIONS: These observations identify KLF2 as a novel negative regulator of 
+DC function and it may play an essential role in DC activation in ACS.
+
+© 2013 S. Karger AG, Basel
+
+DOI: 10.1159/000354496
+PMID: 24107715 [Indexed for MEDLINE]
+
+
+3. Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2010 May;35(5):476-82. doi: 
+10.3969/j.issn.1672-7347.2010.05.012.
+
+[Dendritic cells and coronary collateral circulation in coronary heart disease].
+
+[Article in Chinese]
+
+Li C(1), Liu W, Yi J, Li Z, Pu X, Yang T, Xie Q, Mo L, Chen X.
+
+Author information:
+(1)Department of Cardiology, Xiangya Hospital, Central South University, 
+Changsha 410008, China.
+
+OBJECTIVE: To determine the relationship between the number,phenotype and 
+functional status of dendritic cells (DCs) and coronary collateral circulation 
+(CCC) in coronary heart disease (CHD).
+METHODS: Forty patients with severe coronary stenosis were recruited and divided 
+into a CCC formation group (Group A, n=22) and a non-CCC formation group (Group 
+B, n=18). Density gradient centrifugation was applied to separate the 
+mononuclear cells (MNCs) from coronary artery blood samples, and MNCs were 
+cultured and proliferated in vitro. The morphology of DCs was observed under 
+converted microscope. The number of harvested cells and DCs was counted by 
+hematocytometer. Flow cytometry was applied to investigate the phenotype and the 
+mean fluorescence intensity (MFI). Mixed lymphocyte reaction was used to test 
+the function of DCs to stimulate the proliferation of T lymphocytes. Stimulation 
+index (SI) was calculated and compared.
+RESULTS: (1) After in vitro proliferation, DCs were cultured successfully from 
+the mononuclear cells from coronary artery blood samples and the morphology of 
+DCs was not different in the 2 groups. (2) The number of mononuclear cells (MNC 
+no) was (3.95+/-1.41)*10(6), in the CCC group and (2.76+/-0.92)*10(6) in the 
+non-CCC group. The MNC number was significantly increased in the CCC group 
+(P=0.003). (3) The number of DCs was (1.54+/-0.96)*10(6) in the CCC group, and 
+(0.99+/-0.46)*10(6) in the non-CCC group (P=0.033). (4)There was no statistical 
+significance in the percent of CD1a+, CD1a+CD80+, CD1a+CD83+, CD1a+CD86+ cells, 
+and MFI in the 2 groups (P>0.05). (5) SI was 4.96+/-2.30 in the CCC group, 
+whereas 2.66+/-1.04 in the non-CCC group. The SI in the CCC group increased 
+significantly(P=0.0003).
+CONCLUSION: In CHD patients with severe coronary stenosis, patients with CCC 
+formation have higher number of DCs and stronger potential of T lymphocyte 
+stimulation.
+
+DOI: 10.3969/j.issn.1672-7347.2010.05.012
+PMID: 20543472 [Indexed for MEDLINE]
+
+=== Gene: PDCD1 ===
+No results found.
+
+
+=== Gene: STAT3 ===
+1. Heliyon. 2024 Sep 14;10(18):e37937. doi: 10.1016/j.heliyon.2024.e37937. 
+eCollection 2024 Sep 30.
+
+Insights into diosgenin against inflammatory bowel disease as functional food 
+based on network pharmacology and molecular docking.
+
+Cai M(1)(2), Mao Y(1)(2), Gao W(1)(2), Wang Z(1)(2), Mao J(1)(2), Sha R(1)(2).
+
+Author information:
+(1)School of Biological and Chemical Engineering, Zhejiang University of Science 
+and Technology, Hangzhou, 310023, China.
+(2)Zhejiang Provincial Key Laboratory for Chemical & Biological Processing 
+Technology of Farm Product, Hangzhou, 310023, China.
+
+Inflammatory bowel disease (IBD) is a growing global health problem. IBD is 
+commonly prevalent in Europe and America and the incidence rate in Asia is on 
+the rise due to altered dietary structure. Diosgenin is a natural steroidal 
+saponin derived from Dioscorea plants. Diosgenin is the main active ingredient 
+of some Chinese medicines which are mainly used to treat coronary heart disease, 
+angina and hyperlipidemia. Recently, growing evidence has exhibited a crucial 
+role of diosgenin and dioscin in alleviating IBD in multiple ways. However, the 
+precise mechanism of diosgenin against IBD needs further exploration. In this 
+study, network pharmacological and systematic bioinformatic analyses were 
+performed to investigate the diosgenin's targets against IBD. 71 targets such as 
+SRC, TNF and STAT3 were identified as overlapped genes between diosgenin and 
+IBD. Gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+enrichment analysis exhibited their involvement in the tyrosine kinase signaling 
+pathway and its membrane receptors. Epidermal growth factor receptor (EGFR) 
+tyrosine kinase inhibitor resistance and its downstream Ras-MAPK pathway and 
+PI3K-Akt pathway might become the mechanism of diosgenin against IBD. In 
+addition, molecular docking analysis showed that diosgenin has the massive 
+potential of direct binding to tyrosine kinase and its receptors such as SRC, 
+EGFR, FGFR1 and VEGFR. The results above collectively provided evidence that 
+diosgenin is a promising nutraceutical food against IBD.
+
+© 2024 The Authors. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2024.e37937
+PMCID: PMC11422009
+PMID: 39323838
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+2. J Ethnopharmacol. 2025 Jan 30;337(Pt 1):118779. doi:
+10.1016/j.jep.2024.118779.  Epub 2024 Sep 5.
+
+Exploring the underlying mechanisms of Danshen-Shanzha Decoction on coronary 
+heart disease: An integrated analysis combining pharmacoinformatics and 
+experimental validation.
+
+Feng T(1), Xu Q(1), Yu Z(2), Song F(1), Luo Q(3), Wang S(3), Tang H(4), Li H(5).
+
+Author information:
+(1)Department of Chinese Materia Medica and Natural Medicines, School of 
+Pharmacy, Air Force Medical University, Xi'an, 710032, China.
+(2)Department of Pharmaceutical Analysis, School of Pharmacy, Air Force Medical 
+University, Xi'an, 710032, China.
+(3)Department of Chinese Materia Medica and Natural Medicines, School of 
+Pharmacy, Air Force Medical University, Xi'an, 710032, China; College of Life 
+Science and Medicine, Northwest University, Xi'an, 710069, China.
+(4)Department of Chinese Materia Medica and Natural Medicines, School of 
+Pharmacy, Air Force Medical University, Xi'an, 710032, China. Electronic 
+address: tanghaifeng71@163.com.
+(5)Department of Chinese Materia Medica and Natural Medicines, School of 
+Pharmacy, Air Force Medical University, Xi'an, 710032, China. Electronic 
+address: lihuasmile@aliyun.com.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: The Danshen-Shanzha Decoction (DSD) is a 
+renowned herbal combination consisting of the root of Salvia miltiorrhiza Bunge 
+(known as Danshen in Chinese) and the fruits of Crataegus pinnatifida Bunge 
+(known as Shanzha in Chinese), which has exhibited remarkable clinical efficacy 
+in the treatment of coronary heart disease (CHD) in traditional Chinese 
+medicine, with its earliest recorded application dating to around 202 BCE during 
+the Han Dynasty. Despite significant advancements in the fundamental research 
+and clinical applications of DSD over the past few decades, the precise 
+bioactive components as well as the underlying mechanisms responsible for its 
+protective effect on CHD remain unelucidated.
+AIM OF THE STUDY: The present study was designed to elucidate the bioactive 
+components and potential mechanism of DSD in the treatment of CHD using in 
+silico technologies integrated with pharmacoinformatic methods and experimental 
+validation.
+MATERIALS AND METHODS: The chemical components of DSD were analyzed and 
+identified using UPLC-Q-TOF-MS. Pharmacoinformatic-based methods were employed 
+to comprehensively investigate the principal active components and targets of 
+DSD for treating CHD. GO and KEGG pathway analyses were utilized to elucidate 
+the underlying mechanism responsible for DSD's efficacy against CHD. Molecular 
+docking and molecular dynamics simulation were performed to assess the binding 
+affinity between active components and putative targets. Furthermore, surface 
+plasmon resonance (SPR) was carried out to verify the affinity and kinetic 
+characteristics of major components to STAT3 protein. Subsequently, a series of 
+in vitro experiments, including cell viability test, flow cytometric analysis, 
+ELISA and western blotting, were conducted to validate the predicted results in 
+an oxygen-glucose deprivation (OGD)-stimulated H9c2 model.
+RESULTS: A total of 96 compounds were characterized by UPLC-Q-TOF-MS, and 281 
+overlapping targets were identified through pharmacoinformatic-based methods. 
+Among these, ten critical compounds were determined as the core active 
+components of DSD. The core targets associated with the development of CHD 
+included STAT3, SRC, TP53, JUN, and AKT1. Notably, Dihydrotanshinone I and 
+(+)-Epicatechin exhibited strong binding affinity towards STAT3. The potential 
+mechanisms by which DSD modulates the pathological progression of CHD were 
+predicted to involve inflammation, oxidative stress, and apoptosis. Importantly, 
+the cytoprotective effect of DSD against apoptosis was confirmed in 
+OGD-stimulated H9c2 cells, as evidenced by the upregulation of Bcl-2 expression 
+and downregulation of both Bax and cleaved caspase-3 expressions upon DSD 
+treatment. Furthermore, DSD significantly enhanced the phosphorylated protein 
+expressions of JAK2 and STAT3 compared to the OGD group, suggesting its 
+potential role in modulating related signaling pathways.
+CONCLUSIONS: The current study successfully fills the gap in the understanding 
+of the chemical profiles of DSD, predicting its active components, potential 
+targets, and molecular mechanisms in the treatment of CHD. These findings not 
+only provide a valuable strategy but also robust data support for future 
+investigations into DSD, thereby facilitating the identification of novel 
+therapeutic targets for traditional Chinese medicines in the battle against CHD.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2024.118779
+PMID: 39244177 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Clinics (Sao Paulo). 2024 May 29;79:100386. doi: 10.1016/j.clinsp.2024.100386.
+ eCollection 2024.
+
+Effects of aerobic exercise on myocardial injury, NF-B expression, glucolipid 
+metabolism and inflammatory factors in rats with coronary heart disease.
+
+Zhang S(1), Yu G(2), Ping M(2), Du Q(2), Guo X(2).
+
+Author information:
+(1)Department of Rehabilitation Medicine, Wuhan Hanyang Hospital, Wuhan City, 
+Hubei Province, China. Electronic address: zhaoshaowu@tom.com.
+(2)Department of Rehabilitation Medicine, Wuhan Hanyang Hospital, Wuhan City, 
+Hubei Province, China.
+
+OBJECTIVE: To investigate the influence of aerobic exercise on myocardial 
+injury, NF-B expression, glucolipid metabolism and inflammatory factors in rats 
+with Coronary Heart Disease (CHD) and explore the possible causative role.
+METHODS: 45 Sprague Dawley® rats were randomized into model, control and 
+experimental groups. A high-fat diet was adopted for generating a rat CHD model, 
+and the experimental group was given a 4-week aerobic exercise intervention. ECG 
+was utilized to evaluate the cardiac function of the rats; HE staining to 
+evaluate the damage of myocardial tissue; TUNEL staining to evaluate 
+cardiomyocyte apoptosis level; ELISA to assay the contents of inflammatory 
+factors and glucolipid metabolism in cardiomyocytes; qPCR to assay IB- and NF-B 
+mRNA expression; Western-blot to assay the apoptosis-related proteins and NF-B 
+signaling pathway-related proteins expressions in myocardial tissue.
+RESULTS: In contrast to the model group, aerobic exercise strongly improved the 
+rat's cardiac function and glucolipid metabolism (p < 0.01), enhanced IL-10 
+content, Bcl-2/Bax level as well as IB- protein and mRNA expression (p < 0.01), 
+and reduced myocardial injury and cardiomyocyte apoptosis, the contents of IL-6, 
+IL-1 and TNF-, Caspase 3 level, NF-B mRNA and protein expression and p-p38 and 
+p-STAT3 expressions (p < 0.01).
+CONCLUSION: Aerobic exercise can not only effectively reduce myocardial injury, 
+the release of inflammatory factors and NF-B expression in CHD rats, but also 
+improve cardiac function and glucolipid metabolism. Its mechanism is likely to 
+be related to the inhibition of the NF-B signaling pathway.
+
+Copyright © 2024. Published by Elsevier España, S.L.U.
+
+DOI: 10.1016/j.clinsp.2024.100386
+PMCID: PMC11177061
+PMID: 38815541 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest.
+
+
+4. Atherosclerosis. 2024 May;392:117507. doi: 
+10.1016/j.atherosclerosis.2024.117507. Epub 2024 Mar 11.
+
+Gene expression profiling in elderly patients with familial hypercholesterolemia 
+with and without coronary heart disease.
+
+Melnes T(1), Bogsrud MP(2), Christensen JJ(1), Rundblad A(1), Narverud I(3), 
+Retterstøl K(4), Aukrust P(5), Halvorsen B(5), Ulven SM(1), Holven KB(6).
+
+Author information:
+(1)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway.
+(2)Unit for Cardiac and Cardiovascular Genetics, Department of Medical Genetics, 
+Oslo University Hospital Ullevål, Norway; Norwegian National Advisory Unit on 
+Familial Hypercholesterolemia, Department of Endocrinology, Morbid Obesity and 
+Preventive Medicine, Oslo University Hospital Aker, Norway.
+(3)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; Norwegian National Advisory Unit on Familial Hypercholesterolemia, 
+Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital Aker, Norway.
+(4)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; The Lipid Clinic, Department of Endocrinology, Morbid Obesity and 
+Preventive Medicine, Oslo University Hospital Aker, Norway.
+(5)Research Institute for Internal Medicine, Oslo University Hospital, Norway; 
+Institute of Clinical Medicine, University of Oslo, Norway.
+(6)Department of Nutrition, Institute of Basic Medical Sciences, University of 
+Oslo, Norway; Norwegian National Advisory Unit on Familial Hypercholesterolemia, 
+Department of Endocrinology, Morbid Obesity and Preventive Medicine, Oslo 
+University Hospital Aker, Norway. Electronic address: 
+kirsten.holven@medisin.uio.no.
+
+BACKGROUND AND AIMS: Elderly familial hypercholesterolemia (FH) patients are at 
+high risk of coronary heart disease (CHD) due to high cholesterol burden and 
+late onset of effective cholesterol-lowering therapies. A subset of these 
+individuals remains free from any CHD event, indicating the potential presence 
+of protective factors. Identifying possible cardioprotective gene expression 
+profiles could contribute to our understanding of CHD prevention and future 
+preventive treatment. Therefore, this study aimed to investigate gene expression 
+profiles in elderly event-free FH patients.
+METHODS: Expression of 773 genes was analysed using the Nanostring Metabolic 
+Pathways Panel, in peripheral blood mononuclear cells (PBMCs) from FH patients 
+≥65 years without CHD (FH event-free, n = 44) and with CHD (FH CHD, n = 39), and 
+from healthy controls ≥70 years (n = 39).
+RESULTS: None of the genes were differentially expressed between FH patients 
+with and without CHD after adjusting for multiple testing. However, at nominal 
+p < 0.05, we found 36 (5%) differentially expressed genes (DEGs) between the two 
+FH groups, mainly related to lipid metabolism (e.g. higher expression of ABCA1 
+and ABCG1 in FH event-free) and immune responses (e.g. lower expression of STAT1 
+and STAT3 in FH event-free). When comparing FH patients to controls, the 
+event-free group had fewer DEGs than the CHD group; 147 (19%) and 219 (28%) 
+DEGs, respectively.
+CONCLUSIONS: Elderly event-free FH patients displayed a different PBMC gene 
+expression profile compared to FH patients with CHD. Differences in gene 
+expression compared to healthy controls were more pronounced in the CHD group, 
+indicating a less atherogenic gene expression profile in event-free individuals. 
+Overall, identification of cardioprotective factors could lead to future 
+therapeutic targets.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.atherosclerosis.2024.117507
+PMID: 38663317 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: MPB has received research grants 
+and/or personal fees from Amgen and Sanofi, none of which are related to the 
+content of this manuscript. JJC has received research grants and/or personal 
+fees from Mills DA and Amgen, none of which are related to the content of this 
+manuscript. AR has received personal fees from Rimfrost AS that are not related 
+to the content of this manuscript. KR has received research grants and/or 
+personal fees from Akcea, Amgen, Mills, Sanofi and Sunnovion, none of which are 
+related to the content of this manuscript. KBH has received research grants 
+and/or personal fees from Sanofi that are related to the content of this 
+manuscript. The other authors have no financial relationships relevant to 
+disclose.
+
+
+5. Ann Transl Med. 2022 Dec;10(24):1327. doi: 10.21037/atm-22-5391.
+
+To explore the active constituents of Sedum aizoon L in the treatment of 
+coronary heart disease based on network pharmacology and molecular docking 
+methodology.
+
+Zhu BJ(#)(1), Nai GY(#)(2), Pan TX(1), Ma ZF(3), Huang ZD(1), Shi ZZ(1), Pang 
+YH(1), Li N(1), Lin JX(1), Ling GM(1).
+
+Author information:
+(1)The Department of Chinese Medicine, The People's Hospital of Baise, Baise, 
+China.
+(2)Department of Hematology, The Affiliated Hospital of Youjiang Medical 
+University for Nationalities, Baise, China.
+(3)School of Dentistry, The Youjiang Medical University for Nationalities, 
+Baise, China.
+(#)Contributed equally
+
+BACKGROUND: There is a lack of effective drugs for the treatment of coronary 
+heart disease (CHD). Sedum aizoon L (SL) has multiple effects, and there is no 
+report on CHD in SL at present. The aim of this study is to explore the 
+mechanisms of action of SL in the treatment of CHD based on network pharmacology 
+and molecular docking technology.
+METHODS: The targets and active ingredients of SL were screened using the 
+Traditional Chinese Medicine Systems Pharmacology (TCMSP) database, and 
+CHD-related targets were obtained by searching GeneCards and DisGeNet databases. 
+The intersection of LS active ingredient targets and CHD targets was used to 
+construct a "drug-ingredient-disease-target" network using the Cytoscape 
+software. The STRING database was used to construct a protein-protein 
+interaction (PPI) network, and Gene Ontology (GO) and Kyoto Encyclopedia of 
+Genes and Genomes (KEGG) analyses were performed. Key targets and core active 
+ingredients were selected and molecular docking was performed using the AutoDock 
+software.
+RESULTS: According to the predicted results, a total of 134 corresponding target 
+genes for LS, 12 active components, 1,704 CHD-related targets, and 52 
+intersecting targets were obtained. GO function and KEGG pathway analysis showed 
+that the key targets were involved with signal transducer and activator of 
+transcription 3 (STAT3), tumor protein p53 (TP53), and vascular endothelial 
+growth factor A (VEGFA). The molecular docking results showed that the key 
+targets bound to the important active ingredients in a stable conformation. The 
+core active ingredients of LS in the treatment of CHD were determined to be 
+ursolic acid, myricetin, and beta-sitosterol.
+CONCLUSIONS: SL may act on targets such as STAT3, TP53, and VEGFA through tumor 
+necrosis factor (TNF) signaling pathway, interleukin 17A (IL-17A) signaling 
+pathway, AGE-RAGE signaling pathway in diabetic complications, and other related 
+pathways, thereby playing a role in preventing and treating CHD.
+
+2022 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm-22-5391
+PMCID: PMC9843314
+PMID: 36660641
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://atm.amegroups.com/article/view/10.21037/atm-22-5391/coif). The authors 
+have no conflicts of interest to declare.
+
+=== Gene: CD8A ===
+No results found.
+
+
+=== Gene: TNF ===
+1. J Cardiothorac Surg. 2025 Jul 14;20(1):295. doi: 10.1186/s13019-025-03449-z.
+
+Nicorandil in improving angina pectoris and vascular endothelial function in 
+elderly diabetes mellitus patients with coronary heart disease.
+
+Gao L(1).
+
+Author information:
+(1)Department of Clinical Medicine, Zhengzhou Health College, Zhengzhou, 450000, 
+China. gaoling821130@163.com.
+
+OBJECTIVE: To explore the clinical efficacy of nicorandil in treating elderly 
+angina pectoris with diabetes mellitus (DM) and coronary heart disease (CHD), 
+and the effect on improving vascular endothelial function (VEF).
+METHODS: 110 elderly diabetic patients with CHD and angina pectoris who were 
+treated in our hospital from April 2019 to March 2022 were chose as samples. All 
+the subjects were distributed into 2 groups, namely A and B, and 55 people in 
+each. B group were treated with secondary preventive drugs for CHD, and the A 
+group were treated with nicorandil and secondary preventive drugs for CHD. After 
+one month, the clinical efficacy, prethrombotic state, VEF, inflammatory factor 
+levels, cardiac function were compared.
+RESULTS: The bg, DD, PAI-1, vWF, ET-1, TNF-α and hs-CRP in A group after the 
+treatment were below those in B (P < 0.05), t-PA, FMD, The NO content was 
+significantly exceeded that of the B group. The LVEF and RHI indexes in A were 
+exceed the data in B (P < 0.05), and the LVEDD and LVPWd were below the data in 
+B (P < 0.05). The effective rate of clinical treatment in A was significantly 
+exceed B's data.
+CONCLUSION: Nicorandil can significantly improve angina pectoris in elderly 
+patients with DM and CHD.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13019-025-03449-z
+PMID: 40653459 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study was approved by the local ethics committee of the 
+Zhengzhou Shuqing Medical College. All experiments were performed in accordance 
+with relevant guidelines and regulations such as the Declaration of Helsinki and 
+the patients signed the informed consent form and agreed to be published. 
+Consent for publication: Not applicable. Competing interests: The authors 
+declare no competing interests. Conflict of interest: None. Clinical trial 
+number: Not applicable.
+
+
+2. Clin Exp Hypertens. 2025 Dec;47(1):2524105. doi:
+10.1080/10641963.2025.2524105.  Epub 2025 Jul 1.
+
+Changes and significance of high-density lipoprotein A-I, A-II, and serum 
+amyloid levels in patients with chronic obstructive pulmonary disease 
+complicated by coronary heart disease.
+
+Tian Y(1)(2), Liu H(2)(3), Wang Y(2)(3).
+
+Author information:
+(1)Department of Endocrinology, Fenyang Hospital, The Affiliated Hospital of 
+Shanxi Medical University, Fenyang, China.
+(2)Fenyang College of Shanxi Medical University, Fenyang, China.
+(3)Department of Respiratory and Critical Care Medicine, Fenyang Hospital of 
+Shanxi Province, Fenyang, China.
+
+OBJECTIVE: To investigate the significance of blood lipids and pro-inflammatory 
+in chronic obstructive pulmonary disease (COPD) patients in stable and acute 
+exacerbations (AECOPD) with or without coronary heart disease (CAD).
+METHODS: One hundred and sixty COPD patients were divided into four groups based 
+on whether COPD was in the acute or stable phase and whether comorbid CAD: 
+AECOPD without CAD group, AECOPD with CAD group, stable COPD without CAD group, 
+and stable COPD with CAD group.
+RESULTS: The levels of ApoA-I and ApoA-II in the AECOPD group and AECOPD with 
+CAD group were significantly lower than in the stable COPD group, stable COPD 
+with CAD group, and control group. The levels of SAA, TNF-α, and IL-6 was 
+significantly higher in AECOPD group with CAD or without CAD compared with 
+control group. SAA levels were significantly increased in stable COPD with CAD 
+group compared with control group.
+CONCLUSION: The levels of ApoA-I and ApoA-II in the AECOPD without CAD group and 
+AECOPD with CAD group were significantly lower than those in the stable COPD 
+group, stable COPD with CAD group. The change of pro-inflammatory factor TNF-α 
+and IL-6 levels would be an important reason. The SAA level was significantly 
+increased in the AECOPD without CAD group and AECOPD with CAD group, which 
+indicated that the changes in HDL-C components in this group may be an important 
+reason for promoting the progress of CAD.
+
+DOI: 10.1080/10641963.2025.2524105
+PMID: 40590531 [Indexed for MEDLINE]
+
+
+3. Biomedicines. 2025 Jun 6;13(6):1392. doi: 10.3390/biomedicines13061392.
+
+Immunological Markers of Cardiovascular Pathology in Older Patients.
+
+Bugibayeva A(1), Kurmanova A(1), Abzaliyev K(1), Abzaliyeva S(1), Kurmanova 
+G(1), Sundetova D(1), Abdykassymova M(1), Bitemirova R(1), Sagalbayeva U(1), 
+Absatarova K(1), Suleimenova M(2).
+
+Author information:
+(1)Faculty of Medicine and Healthcare, Al-Farabi Kazakh National University, 
+Almaty 050040, Kazakhstan.
+(2)Faculty of Information Technology, Al-Farabi Kazakh National University, 
+Almaty 050040, Kazakhstan.
+
+Background: The aging process is accompanied by changes in the immunological 
+status of a person. Immunosenescence is considered a significant cause of the 
+development of cardiovascular diseases (CVD) in elderly people. However, to 
+date, the relationship between immune/inflammatory processes and diseases 
+associated with age is considered quite complex and is not fully understood. 
+Immunophenotyping and the intracellular production of cytokines involved in the 
+processes of inflammatory aging will allow us to identify biomarkers that are 
+associated with cardiovascular diseases in the elderly. Objectives: To identify 
+immunological markers associated with the process of inflammatory aging in older 
+individuals with cardiovascular diseases. Methods: CD-phenotyping and 
+intracellular cytokine analysis of peripheral blood using the flow cytometry 
+method were conducted in 52 people over 60 years of age (group 1 had CVD and 
+group 2 did not). Blood samples were stained with monoclonal antibodies (mAb) 
+using Becton Dickinson (BD) reagents for the staining and binding of surface 
+receptors CD4+, CD8+, CD14+, CD19+, CD16+, CD56+, CD59+, CD95+, and HLA DR+ and 
+intracellular receptors TNF, IL-10, GM-CSF, VEGFR-2, IGF, and perforin. In 
+addition, the following parameters were studied: questionnaire data (gender, 
+age, alcohol consumption, smoking, physical activity, and marital status), 
+clinical data (blood pressure (BP), heart rate (HR), body mass index (BMI)), 
+comorbid conditions, and cardiovascular diseases (coronary heart disease (CHD), 
+chronic heart failure (CHF), arterial hypertension (AH), previous myocardial 
+infarction (PICS), diabetes mellitus (DM), atrial fibrillation (AF), and 
+stroke). Results: The older patients with cardiovascular pathology had high 
+levels of monocytes CD14+ (p = 0.014), low levels of CD8+ lymphocytes (p = 
+0.046), and low intracellular production of GM-CSF (p = 0.013) compared to the 
+older people without CVD. Conclusions: The revealed differences in the 
+expression of CD14+ monocytes indicate their role in the development of 
+cardiovascular pathology associated with age-related changes. A decrease in 
+cytotoxic CD8+ lymphocytes and intracellular GM-CSF production leads to an 
+increased risk of developing cardiovascular diseases in older individuals. These 
+observed changes with age will not only expand existing knowledge about the 
+aging of the regulatory link of the immune system but also help to obtain data 
+to predict CVD in older people. Thus, the obtained results support the use of 
+these immunological markers to identify the risk of circulatory disease and a 
+personalized approach in geriatric practice.
+
+DOI: 10.3390/biomedicines13061392
+PMCID: PMC12189633
+PMID: 40564110
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analysis, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.
+
+
+4. Biomed Chromatogr. 2025 Jul;39(7):e70120. doi: 10.1002/bmc.70120.
+
+Study on the Efficacy and Mechanism of Metabolomics and Bioinformatics on the 
+Treatment of Qi Stagnation and Blood Stasis Coronary Heart Disease by Danshen 
+Injection.
+
+Wu L(1), Feng M(2), Peng Y(2), Xiang Y(1), Liu R(2), Liu T(2)(3).
+
+Author information:
+(1)School of Pharmacy, Chengdu University, Chengdu, China.
+(2)Faculty of Food and Biological Engineering, Chengdu University, Chengdu, 
+China.
+(3)Institute of Technology Transfer, Chengdu University, Chengdu, China.
+
+This study, grounded in traditional Chinese medicine theory, established a 
+QZXY-CHD model to investigate DSI's impact on vascular endothelial function, 
+inflammatory factors, oxidative stress, and myocardial energy metabolism from a 
+holistic perspective. The results demonstrated that DSI significantly reduced 
+serum levels of ET-1, MPO, IL-1β, TNF-α, MDA, LDH, and CK-MB, while increasing 
+NO and SOD levels, indicating DSI's ability to inhibit inflammation, mitigate 
+oxidative stress, and protect endothelial and organ functions. Using 
+bioinformatics, we identified differentially expressed genes and metabolic 
+pathways in coronary heart disease and screened diagnostic biomarkers (JDP2, 
+ZFP36, TRAF3IP3, MRPS30, CLEC4D). Non-targeted metabolomics revealed changes in 
+endogenous metabolites, identifying 73 differential metabolites between the 
+control (Con) and model (Mod) groups, and 75 between the Mod and DSI groups, 
+with 21 key overlapping metabolites. Integrated bioinformatics and metabolomics 
+analysis highlighted critical metabolites such as arachidonic acid, leukotriene 
+B4, linoleic acid, sucrose, D-glucose, pyroglutamic acid, and palmitic acid, as 
+well as seven key metabolic pathways including arachidonic acid metabolism, 
+linoleic acid metabolism, and galactose metabolism. This combined analysis 
+provides biological evidence for identifying biomarkers of CHD host 
+susceptibility and elucidates the mechanisms by which DSI ameliorates QZXY-CHD, 
+offering new insights for diagnosis and disease management.
+
+© 2025 John Wiley & Sons Ltd.
+
+DOI: 10.1002/bmc.70120
+PMID: 40420461 [Indexed for MEDLINE]
+
+
+5. Open Life Sci. 2025 May 20;20(1):20221040. doi: 10.1515/biol-2022-1040. 
+eCollection 2025.
+
+Effects of tiered cardiac rehabilitation on CRP, TNF-α, and physical endurance 
+in older adults with coronary heart disease.
+
+Luo C(1), Li L(2), Hou L(1), Shi F(1).
+
+Author information:
+(1)Department of Cardiovascular Medicine, The Fourth Hospital of Changsha, 
+Changsha, 410219, China.
+(2)Ward of Neurology, The Fourth Hospital of Changsha, Changsha, 410006, China.
+
+Coronary heart disease (CHD) is a highly prevalent disease in the elderly 
+population, with atherosclerosis as its pathology, which can also be viewed as a 
+chronic inflammatory response of the organism. Regular moderate-intensity 
+exercise can direct the immune response toward an anti-inflammatory state, which 
+is beneficial for improving the health and exercise tolerance. In cardiac 
+rehabilitation, attention to the management of inflammatory factors as well as 
+the improvement of exercise endurance is beneficial for the rehabilitation of 
+elderly patients with coronary artery disease. This study investigates the 
+impact of tiered cardiac rehabilitation programs on levels of C-reactive protein 
+(CRP), tumor necrosis factor-alpha (TNF-α), and the capacity for physical 
+exertion in older CHD patients. From March 2020 to April 2022, 94 elderly 
+patients with CHD visiting our institution were recruited and randomly allocated 
+into either a control group or an observation group, each comprising 47 
+participants. The standard care group participated in traditional rehabilitation 
+exercises, whereas the experimental group received customized, tiered, cardiac 
+rehabilitation interventions. We assessed the variations in CRP and tumor 
+necrosis factor alpha (TNF-α) levels, along with exercise capacity, before and 
+after treatment in both groups. The result shows that significant reductions in 
+CRP and TNF-α levels were seen in the experimental group after 4 and 12 weeks, 
+compared to the standard care group. Analysis showed clear trends in CRP and 
+TNF-α changes over the interventions, with the experimental group showing better 
+results. CRP levels decreased consistently, while TNF-α levels stayed stable. 
+The experimental group also showed improvements in physical endurance measures 
+compared to the control group. Interleukin 6 (IL-6) and fibrinogen (Fib) in the 
+observation group decreased compared with the control group (P < 0.01). After 12 
+weeks of treatment, CRP and TNF-α showed significant negative correlation with 
+exercise endurance index - 6 min walking test (6 MWT), anaerobic threshold (AT), 
+maximum oxygen consumption (VO2max), and exercise duration (ED); significant 
+positive correlation between cardiac rehabilitation grade and exercise endurance 
+index (6 MWT, AT, VO2max and ED); and both groups experienced cardiovascular 
+adverse events and exercise muscle injury. The analysis shows that the graded 
+nursing of cardiac rehabilitation can effectively reduce the levels of CRP, 
+TNF-α, IL-6, and Fib in elderly patients with CHD and significantly improve the 
+exercise endurance of patients with good safety.
+
+© 2025 the author(s), published by De Gruyter.
+
+DOI: 10.1515/biol-2022-1040
+PMCID: PMC12103183
+PMID: 40417004
+
+Conflict of interest statement: Conflict of interest: Authors state no conflict 
+of interest.
+
+=== Gene: CCR5 ===
+1. Cardiovasc Ther. 2022 Aug 9;2022:9034996. doi: 10.1155/2022/9034996.
+eCollection  2022.
+
+Bioinformatics and System Biological Approaches for the Identification of 
+Genetic Risk Factors in the Progression of Cardiovascular Disease.
+
+Barua JD(1), Omit SBS(2), Rana HK(3), Podder NK(4)(5), Chowdhury UN(6), Rahman 
+MH(7).
+
+Author information:
+(1)Department of Pharmacy, BGC Trust University Bangladesh, Chattogram, 
+Bangladesh.
+(2)Department of Computer Science and Telecommunication Engineering, Noakhali 
+Science and Technology University, Noakhali, Bangladesh.
+(3)Department of Computer Science and Engineering, Green University of 
+Bangladesh, Dhaka, Bangladesh.
+(4)Bangladesh Institute of Governance and Management (BIGM), Dhaka, Bangladesh.
+(5)Department of Computer Science and Engineering, Khulna University of 
+Engineering & Technology, Khulna, Bangladesh.
+(6)Department of Computer Science and Engineering, University of Rajshahi, 
+Rajshahi, Bangladesh.
+(7)Department of Computer Science and Engineering, Islamic University, Kushtia 
+7003, Bangladesh.
+
+BACKGROUND: Cardiovascular disease (CVD) is the combination of coronary heart 
+disease, myocardial infarction, rheumatic heart disease, and peripheral vascular 
+disease of the heart and blood vessels. It is one of the leading deadly diseases 
+that causes one-third of the deaths yearly in the globe. Additionally, the risk 
+factors associated with it make the situation more complex for cardiovascular 
+patients, which lead them towards mortality, but the genetic association between 
+CVD and its risk factors is not clearly explored in the global literature. We 
+addressed this issue and explored the linkage between CVD and its risk factors.
+METHODS: We developed an analytical approach to reveal the risk factors and 
+their linkages with CVD. We used GEO microarray datasets for the CVD and other 
+risk factors in this study. We performed several analyses including gene 
+expression analysis, diseasome analysis, protein-protein interaction (PPI) 
+analysis, and pathway analysis for discovering the relationship between CVD and 
+its risk factors. We also examined the validation of our study using gold 
+benchmark databases OMIM, dbGAP, and DisGeNET.
+RESULTS: We observed that the number of 32, 17, 53, 70, and 89 differentially 
+expressed genes (DEGs) is overlapped between CVD and its risk factors of 
+hypertension (HTN), type 2 diabetes (T2D), hypercholesterolemia (HCL), obesity, 
+and aging, respectively. We identified 10 major hub proteins (FPR2, TNF, CXCL8, 
+CXCL1, IL1B, VEGFA, CYBB, PTGS2, ITGAX, and CCR5), 12 significant functional 
+pathways, and 11 gene ontological pathways that are associated with CVD. We also 
+found the connection of CVD with its risk factors in the gold benchmark 
+databases. Our experimental outcomes indicate a strong association of CVD with 
+its risk factors of HTN, T2D, HCL, obesity, and aging.
+CONCLUSIONS: Our computational approach explored the genetic association of CVD 
+with its risk factors by identifying the significant DEGs, hub proteins, and 
+signaling and ontological pathways. The outcomes of this study may be further 
+used in the lab-based analysis for developing the effective treatment strategies 
+of CVD.
+
+Copyright © 2022 Joy Dip Barua et al.
+
+DOI: 10.1155/2022/9034996
+PMCID: PMC9381297
+PMID: 36035865 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. PLoS One. 2018 May 29;13(5):e0197751. doi: 10.1371/journal.pone.0197751. 
+eCollection 2018.
+
+Elevated levels of 2-arachidonoylglycerol promote atherogenesis in ApoE-/- mice.
+
+Jehle J(1), Schöne B(1), Bagheri S(1), Avraamidou E(1), Danisch M(1), Frank 
+I(1), Pfeifer P(1), Bindila L(2), Lutz B(2), Lütjohann D(3), Zimmer A(4), 
+Nickenig G(1).
+
+Author information:
+(1)Department of Internal Medicine II Cardiology, Pneumology, Angiology, 
+University Hospital Bonn, Bonn, Germany.
+(2)Institute of Physiological Chemistry, University Medical Center of the 
+Johannes Gutenberg University Mainz, Mainz, Germany.
+(3)Insitute for Clinical Chemistry and Clinical Pharmacology, University 
+Hospital Bonn, Bonn, Germany.
+(4)Department of Molecular Psychiatry, University Hospital Bonn, Bonn, Germany.
+
+BACKGROUND: The endocannabinoid (eCB) 2-arachidonoylglycerol (2-AG) is a known 
+modulator of inflammation and ligand to both, pro-inflammatory cannabinoid 
+receptor 1 (CB1) and anti-inflammatory CB2. While the role of both receptors in 
+atherogenesis has been studied extensively, the significance of 2-AG for 
+atherogenesis is less well characterized.
+METHODS: The impact of 2-AG on atherogenesis was studied in two treatment groups 
+of ApoE-/- mice. One group received the monoacylglycerol lipase (MAGL)-inhibitor 
+JZL184 [5 mg/kg i.p.], which impairs 2-AG degradation and thus causes elevated 
+2-AG levels, the other group received vehicle for four weeks. Simultaneously, 
+both groups were fed a high-cholesterol diet. The atherosclerotic plaque burden 
+was assessed in frozen sections through the aortic sinus following oil red O 
+staining and infiltrating macrophages were detected by immunofluorescence 
+targeting CD68. In vitro, the effect of 2-AG on B6MCL macrophage migration was 
+assessed by Boyden chamber experiments. Transcription of adhesion molecules and 
+chemokine receptors in macrophages was assessed by qPCR.
+RESULTS: As expected, application of the MAGL-inhibitor JZL184 resulted in a 
+significant increase in 2-AG levels in vascular tissue (98.2 ± 16.1 nmol/g vs. 
+27.3 ± 4.5 nmol/g; n = 14-16; p < 0.001). ApoE-/- mice with elevated 2-AG levels 
+displayed a significantly increased plaque burden compared to vehicle treated 
+controls (0.44 ± 0.03 vs. 0.31 ± 0.04; n = 14; p = 0.0117). This was accompanied 
+by a significant increase in infiltrating macrophages within the atherosclerotic 
+vessel wall (0.33 ± 0.02 vs. 0.27 ± 0.01; n = 13-14; p = 0.0076). While there 
+was no alteration to the white blood counts of JZL184-treated animals, 2-AG 
+enhanced macrophage migration in vitro by 1.8 ± 0.2 -fold (n = 4-6; p = 0.0393) 
+compared to vehicle, which was completely abolished by co-administration of 
+either CB1- or CB2-receptor-antagonists. qPCR analyses of 2-AG-stimulated 
+macrophages showed an enhanced transcription of the chemokine CCL5 (1.59 ± 0.23 
+-fold; n = 5-6; p = 0.0589) and its corresponding receptors CCR1 (2.04 ± 0.46 
+-fold; n = 10-11; p = 0.0472) and CCR5 (2.45 ± 0.62 -fold; n = 5-6; p = 0.0554).
+CONCLUSION: Taken together, elevated 2-AG levels appear to promote atherogenesis 
+in vivo. Our data suggest that 2-AG promotes macrophage migration, possibly by 
+the CCL5-CCR5/CCR1 axis, and thereby contributes to vascular inflammation. Thus, 
+decreasing vascular 2-AG levels might represent a promising therapeutic strategy 
+in patients suffering from atherosclerosis and coronary heart disease.
+
+DOI: 10.1371/journal.pone.0197751
+PMCID: PMC5973571
+PMID: 29813086 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+3. Circ Cardiovasc Genet. 2016 Jun;9(3):250-8. doi: 
+10.1161/CIRCGENETICS.115.001374. Epub 2016 Mar 24.
+
+Common and Rare Genetic Variation in CCR2, CCR5, or CX3CR1 and Risk of 
+Atherosclerotic Coronary Heart Disease and Glucometabolic Traits.
+
+Golbus JR(1), Stitziel NO(2), Zhao W(2), Xue C(2), Farrall M(2), McPherson R(2), 
+Erdmann J(2), Deloukas P(2), Watkins H(2), Schunkert H(2), Samani NJ(2), 
+Saleheen D(2), Kathiresan S(2), Reilly MP(1); CARDIoGRAMplusC4D, Myocardial 
+Infarction Genetics (MIGen), Exome Sequencing Project and Early-Onset Myocardial 
+Infarction (ESP EOMI), and the Pakistan Risk of Myocardial Infarction Study 
+(PROMIS) Consortia*.
+
+Author information:
+(1)From the Department of Medicine, Hospital of the University of Pennsylvania, 
+Philadelphia (J.R.G.); Cardiovascular Division, Department of Medicine (N.O.S.), 
+Department of Genetics and McDonnell Genome Institute (N.O.S.), Washington 
+University School of Medicine, St. Louis, MO; Department of Biostatistics and 
+Epidemiology, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia (W.Z., C.X., D.S.); Department of Cardiovascular Medicine, The 
+Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United 
+Kingdom (M.F., H.W.); Division of Cardiology, University of Ottawa Heart 
+Institute, Ottawa, Ontario, Canada (R.M.); Medizinische Klinik II, University of 
+Lübeck, Lübeck, Germany (J.E.); William Harvey Research Institute, Barts & The 
+London School of Medicine and Dentistry, Queen Mary University London, London, 
+United Kingdom (P.D.); Deutsches Herzzentrum München, Technische Universität 
+München, DZHK, Munich Heart Alliance, München, Germany (H.S.); Department of 
+Cardiovascular Sciences, University of Leicester & NIHR Leicester Cardiovascular 
+Biomedical Research Unit, Glenfield Hospital, Leicester, United Kingdom 
+(N.J.S.); Center for Human Genetic Research, Cardiovascular Research Center, 
+Massachusetts General Hospital, Boston (S.K.); Department of Medicine, Harvard 
+Medical School, Boston, MA (S.K.); Program in Medical and Population Genetics, 
+Broad Institute, Cambridge, MA (S.K.); and Department of Medicine, Columbia 
+University, New York, NY (M.P.R.). jessica.golbus@uphs.upenn.edu 
+mpr2144@cumc.columbia.edu.
+(2)From the Department of Medicine, Hospital of the University of Pennsylvania, 
+Philadelphia (J.R.G.); Cardiovascular Division, Department of Medicine (N.O.S.), 
+Department of Genetics and McDonnell Genome Institute (N.O.S.), Washington 
+University School of Medicine, St. Louis, MO; Department of Biostatistics and 
+Epidemiology, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia (W.Z., C.X., D.S.); Department of Cardiovascular Medicine, The 
+Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United 
+Kingdom (M.F., H.W.); Division of Cardiology, University of Ottawa Heart 
+Institute, Ottawa, Ontario, Canada (R.M.); Medizinische Klinik II, University of 
+Lübeck, Lübeck, Germany (J.E.); William Harvey Research Institute, Barts & The 
+London School of Medicine and Dentistry, Queen Mary University London, London, 
+United Kingdom (P.D.); Deutsches Herzzentrum München, Technische Universität 
+München, DZHK, Munich Heart Alliance, München, Germany (H.S.); Department of 
+Cardiovascular Sciences, University of Leicester & NIHR Leicester Cardiovascular 
+Biomedical Research Unit, Glenfield Hospital, Leicester, United Kingdom 
+(N.J.S.); Center for Human Genetic Research, Cardiovascular Research Center, 
+Massachusetts General Hospital, Boston (S.K.); Department of Medicine, Harvard 
+Medical School, Boston, MA (S.K.); Program in Medical and Population Genetics, 
+Broad Institute, Cambridge, MA (S.K.); and Department of Medicine, Columbia 
+University, New York, NY (M.P.R.).
+
+BACKGROUND: The chemokine receptors CCR2, CCR5, and CX3CR1 coordinate monocyte 
+trafficking in homeostatic and inflammatory states. Multiple small human genetic 
+studies have variably linked single nucleotide polymorphisms in these genes to 
+cardiometabolic disease. We interrogated genome-wide association, exome 
+sequencing, and exome array genotyping studies to ascertain the relationship 
+between variation in these genes and coronary artery disease (CAD), myocardial 
+infarction (MI), and glucometabolic traits.
+METHODS AND RESULTS: We interrogated the CARDIoGRAMplusC4D (Coronary ARtery 
+DIsease Genome wide Replication and Meta-analysis [CARDIoGRAM] plus The Coronary 
+Artery Disease [C4D] Genetics) (60 801 cases and 123 504 controls), the MIGen 
+and CARDIoGRAM Exome consortia (42 335 cases and 78 240 controls), and Exome 
+Sequencing Project and Early-Onset Myocardial Infarction (ESP EOMI; 4703 cases 
+and 5090 controls) data sets to ascertain the relationship between common, low 
+frequency, and rare variation in CCR2, CCR5, or CX3CR1 with CAD and MI. We did 
+not identify any variant associated with CAD or MI. We then explored common and 
+low-frequency variation in South Asians through Pakistan Risk of Myocardial 
+Infarction Study (PROMIS; 9058 cases and 8379 controls), identifying 6 variants 
+associated with MI including CX3CR1 V249I. Finally, reanalysis of the European 
+HapMap imputed Diabetes Genetics Replication and Meta-Analysis (DIAGRAM), Global 
+Lipids Genetics Consortium (GLGC), Genetic Investigation of Anthropometric 
+Traits (GIANT), and Meta-Analysis of Glucose and Insulin-related Traits 
+Consortium (MAGIC) data sets revealed no association with glucometabolic traits 
+although 3 single nucleotide polymorphisms in PROMIS were associated with type 
+II diabetes mellitus.
+CONCLUSIONS: No chemokine receptor variant was associated with CAD, MI, or 
+glucometabolic traits in large European ancestry cohorts. In a South Asian 
+cohort, we identified single nucleotide polymorphism associations with MI and 
+type II diabetes mellitus but these did not meet significance in cohorts of 
+European ancestry. These findings suggest the need for larger studies in South 
+Asians but exclude clinically meaningful associations with CAD and 
+glucometabolic traits in Europeans.
+
+© 2016 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCGENETICS.115.001374
+PMCID: PMC5015681
+PMID: 27013693 [Indexed for MEDLINE]
+
+
+4. J Int AIDS Soc. 2014 Nov 2;17(4 Suppl 3):19726. doi: 10.7448/IAS.17.4.19726. 
+eCollection 2014.
+
+Improvement of endothelial function after switching previously treated 
+HIV-infected patients to an NRTI-sparing bitherapy with maraviroc.
+
+Bernal E(1), Verdú JM(1), Vera F(2), Martinez O(2), Bravo J(3), Galera C(4), 
+Muñoz A(1), Garcia E(1), Serrano J(1), Perez A(1), Vera C(1), Marín I(5), Cano 
+A(1).
+
+Author information:
+(1)Infectious Disease Unit, Reina Sofia Hospital, Murcia, Spain.
+(2)Infectious Disease Unit, Santa Lucia, Cartagena, Spain.
+(3)Infectious Disease Unit, Morales Meseguer, Murcia, Spain.
+(4)Infectious Disease Unit, Virgen de la Arrixaca, Murcia, Spain.
+(5)Cardiology, Reina Sofia Hospital, Murcia, Spain.
+
+INTRODUCTION: Nucleoside reverse transcriptase inhibitor (NRTI) is associated 
+with endothelial dysfunction and proinflammatory effects. Maraviroc (MVC) is an 
+antagonist of CCR5 receptor. CCR5 is the receptor of RANTES (Regulated on 
+Activation, Normal T Cell Expressed and Secreted), a mediator of chronic 
+inflammation and endothelial function. Our aim was to evaluate the maintenance 
+of viral suppression and improvement of endothelial function in virologically 
+suppressed HIV-infected patients switched to an NRTI-sparing combined 
+antiretroviral therapy (cART) with MVC.
+MATERIALS AND METHODS: This observational, non-interventional, multicenter study 
+was performed at the Infectious Diseases Service of Santa Lucia, Morales 
+Meseguer, Virgen de la Arrixaca and Reina Sofía University Hospital (Murcia, 
+Spain). The selection criteria were to be asymptomatic on a regimen with 
+undetectable viral load (<50 HIV-RNA copies/mL) for at least six months, no 
+previous treatment with R5 antagonists, no evidence of previous protease 
+inhibitor (PI) failure and available R5 tropism test. Twenty-one HIV-infected 
+patients were selected after the treatment regimen was changed to Maraviroc 150 
+mg/once daily plus ritonavir-boosted PI therapy. Endothelial function was 
+prospectively evaluated through flow-mediated dilatation (FMD) of the brachial 
+artery at baseline and at weeks 24.
+RESULTS: We included 21 patients on treatment with PI in combination with 2 
+NRTI. The mean cART exposition was 133±68.9 months. Fourteen (66.6%) were males, 
+aged 49±9 years, 15 (71.4%) smokers, 4 (19.04%) family history of coronary heart 
+disease, 1 (5.76%) type 2 diabetes and 3 (14.28%) hypertensive, mean total 
+cholesterol was 185.5±35 mg/dL, c-LDL 100.2±37 mg/dL, tryglicerides 170.42±92.03 
+mg/dL, cHDL 52.6±15.5 mg/dL, CD4 779,5±383.28 cells/mL, nadir CD4 187,96±96 
+cells/mL. After 24 weeks of follow-up of a switch to an NRTI-sparing regimen, 
+95.2% of HIV-patients on viral suppressive cART maintained viral suppression and 
+CD4+ T cell count. This cART switch improve endothelial function in patients 
+with lower baseline FMD levels after 24 weeks (baseline FMD -1.19±4.84 % to 24 
+weeks FMD 11.32±7.27%; p=0.002).
+CONCLUSIONS: The results of our study show that a switch to an NRTI-sparing 
+bi-therapy with MVC improves endothelial function and maintained the 
+immune-virologic efficacy. This regimen emphasizes the needs for further 
+clinical studies to associate these achievements with the incidence of 
+non-AIDS-defining illnesses.
+
+DOI: 10.7448/IAS.17.4.19726
+PMCID: PMC4225394
+PMID: 25397472
+
+
+5. Expert Opin Drug Saf. 2012 Jan;11(1):161-74. doi:
+10.1517/14740338.2012.640670.  Epub 2011 Nov 26.
+
+Drug safety evaluation of maraviroc for the treatment of HIV infection.
+
+Wasmuth JC(1), Rockstroh JK, Hardy WD.
+
+Author information:
+(1)Universitätsklinikum Bonn, Medical Department I, Sigmund-Freud-Str. 25, 53105 
+Bonn, Germany.
+
+INTRODUCTION: Maraviroc is the only C-chemokine receptor 5 (CCR5) antagonist 
+approved for the treatment of infection with HIV. This article reviews the 
+safety and efficacy of maraviroc in the treatment of HIV infection.
+AREAS COVERED: The PubMed database was searched using the keywords 'maraviroc' 
+and 'HIV'. In addition, conference proceedings from CROI, IAS and EACS meetings 
+were searched for maraviroc clinical trials. The PubMed search revealed one 
+Phase IIb - III clinical trial in treatment-naive HIV(+) patients (MERIT) and 
+three Phase IIb - III randomized clinical trials (RCTs) in treatment-experienced 
+patients (MOTIVATE 1 and 2, A4001029). All RCTs showed an excellent safety 
+profile for maraviroc in the treatment of HIV-1 infection. However, long-term (> 
+3 years) safety data generated on maraviroc therapy are still scarce. Based on 
+the findings from RCTs so far, no relevant toxicities and co-morbidities such as 
+coronary heart disease or hepatotoxicity have been described. The overall CD4(+) 
+cell count increase resulting from a maraviroc-containing regimen appears to be 
+higher than those seen with other antiretroviral regimens. However, the 
+significance remains controversial. To date, maraviroc has shown a potent and 
+durable virological efficacy profile for the treatment of HIV-1 infection. The 
+only use of maraviroc depends on pretreatment testing for CCR5 tropism.
+EXPERT OPINION: Maraviroc is a generally safe and well-tolerated medication for 
+the treatment of HIV-1 infection with a unique mechanism of action. Long-term 
+(i.e., > 5 years) risks are not known and have to be carefully monitored.
+
+DOI: 10.1517/14740338.2012.640670
+PMID: 22118500 [Indexed for MEDLINE]
+
+=== Gene: IRF7 ===
+1. Circulation. 2018 Nov 13;138(20):2263-2273. doi: 
+10.1161/CIRCULATIONAHA.117.032790.
+
+B Cell-Activating Factor Neutralization Aggravates Atherosclerosis.
+
+Tsiantoulas D(1)(2), Sage AP(3), Göderle L(1)(2), Ozsvar-Kozma M(1)(2), Murphy 
+D(3), Porsch F(1)(2), Pasterkamp G(4), Menche J(2), Schneider P(5), Mallat 
+Z(3)(6), Binder CJ(1)(2).
+
+Author information:
+(1)Department of Laboratory Medicine, Medical University of Vienna (D.T., L.G., 
+M.O.-K., F.P., C.J.B.).
+(2)CeMM Research Center for Molecular Medicine of the Austrian Academy of 
+Sciences (D.T., L.G., M.O.-K., F.P., J.M., C.J.B.).
+(3)Division of Cardiovascular Medicine, University of Cambridge, UK (A.P.S., 
+D.M., Z.M.).
+(4)University Medical Center Utrecht, Netherlands (G.P.).
+(5)Department of Biochemistry, University of Lausanne, Epalinges, Switzerland 
+(P.S.).
+(6)Institut National de la Santé et de la Recherche Médicale, Paris 
+Cardiovascular Research Center (PARCC), Paris, France (Z.M.).
+
+BACKGROUND: Atherosclerotic cardiovascular disease (heart attacks and strokes) 
+is the major cause of death globally and is caused by the buildup of a plaque in 
+the arterial wall. Genomic data showed that the B cell-activating factor (BAFF) 
+receptor pathway, which is specifically essential for the survival of 
+conventional B lymphocytes (B-2 cells), is a key driver of coronary heart 
+disease. Deletion or antibody-mediated blockade of BAFF receptor ablates B-2 
+cells and decreases experimental atherosclerosis. Anti-BAFF immunotherapy is 
+approved for treatment of autoimmune systemic lupus erythematosus, and can 
+therefore be expected to limit their associated cardiovascular risk. However, 
+direct effects of anti-BAFF immunotherapy on atherosclerosis remain unknown.
+METHODS: To investigate the effect of BAFF neutralization in atherosclerosis, 
+the authors treated Apoe-/- and Ldlr-/- mice with a well-characterized blocking 
+anti-BAFF antibody. Moreover, to investigate the mechanism by which BAFF impacts 
+atherosclerosis, the authors studied atherosclerosis-prone mice that lack the 
+alternative receptor for BAFF: transmembrane activator and calcium modulator and 
+cyclophilin ligand interactor.
+RESULTS: The authors demonstrate here that anti-BAFF antibody treatment 
+increased atherosclerosis in mice, despite efficient depletion of mature B-2 
+cells, suggesting a unique mechanism of action. Indeed, myeloid cell-specific 
+deletion of transmembrane activator and calcium modulator and cyclophilin ligand 
+interactor also results in increased atherosclerosis, while B cell-specific 
+transmembrane activator and calcium modulator and cyclophilin ligand interactor 
+deletion had no effect. Mechanistically, BAFF-transmembrane activator and 
+calcium modulator and cyclophilin ligand interactor signaling represses 
+macrophage IRF7-dependent (but not NF-κB-dependent) Toll-like receptor 9 
+responses including proatherogenic CXCL10 production.
+CONCLUSIONS: These data identify a novel B cell-independent anti-inflammatory 
+role for BAFF in atherosclerosis and may have important clinical implications.
+
+DOI: 10.1161/CIRCULATIONAHA.117.032790
+PMCID: PMC6181204
+PMID: 29858401 [Indexed for MEDLINE]
+
+=== Gene: IL6 ===
+1. Clin Exp Hypertens. 2025 Dec;47(1):2524105. doi:
+10.1080/10641963.2025.2524105.  Epub 2025 Jul 1.
+
+Changes and significance of high-density lipoprotein A-I, A-II, and serum 
+amyloid levels in patients with chronic obstructive pulmonary disease 
+complicated by coronary heart disease.
+
+Tian Y(1)(2), Liu H(2)(3), Wang Y(2)(3).
+
+Author information:
+(1)Department of Endocrinology, Fenyang Hospital, The Affiliated Hospital of 
+Shanxi Medical University, Fenyang, China.
+(2)Fenyang College of Shanxi Medical University, Fenyang, China.
+(3)Department of Respiratory and Critical Care Medicine, Fenyang Hospital of 
+Shanxi Province, Fenyang, China.
+
+OBJECTIVE: To investigate the significance of blood lipids and pro-inflammatory 
+in chronic obstructive pulmonary disease (COPD) patients in stable and acute 
+exacerbations (AECOPD) with or without coronary heart disease (CAD).
+METHODS: One hundred and sixty COPD patients were divided into four groups based 
+on whether COPD was in the acute or stable phase and whether comorbid CAD: 
+AECOPD without CAD group, AECOPD with CAD group, stable COPD without CAD group, 
+and stable COPD with CAD group.
+RESULTS: The levels of ApoA-I and ApoA-II in the AECOPD group and AECOPD with 
+CAD group were significantly lower than in the stable COPD group, stable COPD 
+with CAD group, and control group. The levels of SAA, TNF-α, and IL-6 was 
+significantly higher in AECOPD group with CAD or without CAD compared with 
+control group. SAA levels were significantly increased in stable COPD with CAD 
+group compared with control group.
+CONCLUSION: The levels of ApoA-I and ApoA-II in the AECOPD without CAD group and 
+AECOPD with CAD group were significantly lower than those in the stable COPD 
+group, stable COPD with CAD group. The change of pro-inflammatory factor TNF-α 
+and IL-6 levels would be an important reason. The SAA level was significantly 
+increased in the AECOPD without CAD group and AECOPD with CAD group, which 
+indicated that the changes in HDL-C components in this group may be an important 
+reason for promoting the progress of CAD.
+
+DOI: 10.1080/10641963.2025.2524105
+PMID: 40590531 [Indexed for MEDLINE]
+
+
+2. Diagnostics (Basel). 2025 May 11;15(10):1211. doi:
+10.3390/diagnostics15101211.
+
+Integrating the Interleukins in the Biomarker Panel for the Diagnosis and 
+Prognosis of Patients with Acute Coronary Syndromes: Unraveling a Multifaceted 
+Conundrum.
+
+Timpau AS(1), Miftode EG(2), Costache-Enache II(1), Petris AO(1), Miftode IL(2), 
+Mitu I(3), Miftode RS(1).
+
+Author information:
+(1)Department of Internal Medicine I (Cardiology), Faculty of Medicine, 
+University of Medicine and Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+(2)Department of Infectious Diseases, Faculty of Medicine, University of 
+Medicine and Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+(3)Department of Morpho-Functional Sciences II, University of Medicine and 
+Pharmacy "Grigore T. Popa", 700115 Iasi, Romania.
+
+Background and Objectives: Despite the latest advancements in interventional 
+procedures and pharmacological therapy, the incidence of heart failure and death 
+rate following an acute myocardial remain unacceptably high. This study was 
+designed in response to the limited and conflicting literature data regarding 
+the diagnostic and prognostic role of modern inflammatory biomarkers in patients 
+with coronary artery disease. Materials and Methods: We conducted a 
+case-control, prospective observational study. A total of 145 patients were 
+analyzed, of whom 105 patients had an acute coronary syndrome diagnosis and 
+represented the study group, while 40 patients with a chronic coronary syndrome 
+diagnosis represented the control group. This study investigates the diagnostic 
+and prognostic role of the interleukin 1β (IL-1β), interleukin 6 (IL-6), 
+interleukin 10 (IL-10), Growth differentiation factor 15 (GDF-15), and classic 
+biomarkers in patients with ischemic coronary heart disease. Results: IL-1β 
+exhibited a prognostic role, being significantly correlated with a left 
+ventricular ejection fraction below 30%. GDF-15 plays a dual role, as a 
+cardio-inflammatory biomarker, being significantly correlated with both 
+N-terminal pro-brain natriuretic peptide (NT-proBNP), and IL-1β, IL-6, and CRP. 
+At the same time, GDF-15 represents a surrogate marker for renal dysfunction. 
+According to the ROC analysis, patients at high mortality risk can be identified 
+with adequate accuracy by cardiac troponin, GDF-15, and IL-10, in addition to 
+NT-proBNP. Logistic regression models confirmed NT-proBNP and IL-10 as mortality 
+predictors. Conclusions: IL-1β stands out for its significant prognostic role, 
+while IL-6 did not demonstrate a diagnostic or prognostic role in acute 
+myocardial infarction patients. IL-10 demonstrated superior predictive value in 
+terms of fatal prognosis compared with the other modern biomarkers. GDF-15 is 
+representative of a multivalent biomarker involved in inflammation, heart 
+failure, and renal dysfunction.
+
+DOI: 10.3390/diagnostics15101211
+PMCID: PMC12110678
+PMID: 40428204
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Open Life Sci. 2025 May 20;20(1):20221040. doi: 10.1515/biol-2022-1040. 
+eCollection 2025.
+
+Effects of tiered cardiac rehabilitation on CRP, TNF-α, and physical endurance 
+in older adults with coronary heart disease.
+
+Luo C(1), Li L(2), Hou L(1), Shi F(1).
+
+Author information:
+(1)Department of Cardiovascular Medicine, The Fourth Hospital of Changsha, 
+Changsha, 410219, China.
+(2)Ward of Neurology, The Fourth Hospital of Changsha, Changsha, 410006, China.
+
+Coronary heart disease (CHD) is a highly prevalent disease in the elderly 
+population, with atherosclerosis as its pathology, which can also be viewed as a 
+chronic inflammatory response of the organism. Regular moderate-intensity 
+exercise can direct the immune response toward an anti-inflammatory state, which 
+is beneficial for improving the health and exercise tolerance. In cardiac 
+rehabilitation, attention to the management of inflammatory factors as well as 
+the improvement of exercise endurance is beneficial for the rehabilitation of 
+elderly patients with coronary artery disease. This study investigates the 
+impact of tiered cardiac rehabilitation programs on levels of C-reactive protein 
+(CRP), tumor necrosis factor-alpha (TNF-α), and the capacity for physical 
+exertion in older CHD patients. From March 2020 to April 2022, 94 elderly 
+patients with CHD visiting our institution were recruited and randomly allocated 
+into either a control group or an observation group, each comprising 47 
+participants. The standard care group participated in traditional rehabilitation 
+exercises, whereas the experimental group received customized, tiered, cardiac 
+rehabilitation interventions. We assessed the variations in CRP and tumor 
+necrosis factor alpha (TNF-α) levels, along with exercise capacity, before and 
+after treatment in both groups. The result shows that significant reductions in 
+CRP and TNF-α levels were seen in the experimental group after 4 and 12 weeks, 
+compared to the standard care group. Analysis showed clear trends in CRP and 
+TNF-α changes over the interventions, with the experimental group showing better 
+results. CRP levels decreased consistently, while TNF-α levels stayed stable. 
+The experimental group also showed improvements in physical endurance measures 
+compared to the control group. Interleukin 6 (IL-6) and fibrinogen (Fib) in the 
+observation group decreased compared with the control group (P < 0.01). After 12 
+weeks of treatment, CRP and TNF-α showed significant negative correlation with 
+exercise endurance index - 6 min walking test (6 MWT), anaerobic threshold (AT), 
+maximum oxygen consumption (VO2max), and exercise duration (ED); significant 
+positive correlation between cardiac rehabilitation grade and exercise endurance 
+index (6 MWT, AT, VO2max and ED); and both groups experienced cardiovascular 
+adverse events and exercise muscle injury. The analysis shows that the graded 
+nursing of cardiac rehabilitation can effectively reduce the levels of CRP, 
+TNF-α, IL-6, and Fib in elderly patients with CHD and significantly improve the 
+exercise endurance of patients with good safety.
+
+© 2025 the author(s), published by De Gruyter.
+
+DOI: 10.1515/biol-2022-1040
+PMCID: PMC12103183
+PMID: 40417004
+
+Conflict of interest statement: Conflict of interest: Authors state no conflict 
+of interest.
+
+
+4. J Am Heart Assoc. 2025 May 20;14(10):e040937. doi: 10.1161/JAHA.124.040937.
+Epub  2025 May 13.
+
+Intersection of Cardio-Oncology: An Overview of Radiation-Induced Heart Disease 
+in the Context of Tumors.
+
+Zhao C(1), Xu S(2), Yang Y(2), Shen X(1), Wang J(2), Xing S(1), Yu Z(1).
+
+Author information:
+(1)Department of Experimental Hematology and Biochemistry, Beijing Key 
+Laboratory for Radiobiology Beijing Institute of Radiation Medicine Beijing 
+China.
+(2)Department of Cardiology Chinese PLA General Hospital Beijing China.
+
+Radiation-induced heart disease (RIHD) is a prevalent cardiovascular 
+complication of radiation therapy, with coronary heart disease being the most 
+common manifestation. Clinical presentations of RIHD vary and may include 
+conduction abnormalities, ischemic heart disease, cardiomyopathy, heart failure, 
+and valvular damage. Even low doses of radiation significantly increase the risk 
+of cardiovascular disease, often associated with severe stenosis detected via 
+angiography. Radiation-induced damage to the cardiac endothelium triggers 
+inflammatory responses and oxidative stress, which contribute to the progression 
+of atherosclerosis. This study explores how radiation activates multiple 
+signaling pathways through the generation of reactive oxygen species, resulting 
+in vascular endothelial damage, cellular senescence, inflammatory responses, and 
+DNA damage. It further examines the impact of radiation on vascular integrity 
+and tight junction proteins, leading to increased vascular permeability and 
+infiltration by inflammatory cells. From a clinical perspective, we emphasize 
+the challenges posed by the coexistence of tumors in many patients with RIHD, as 
+tumors complicate the microenvironment and may have mutually reinforcing 
+interactions with radiation-induced damage. We also discuss various therapeutic 
+strategies, including novel approaches targeting cellular senescence and immune 
+responses, with a focus on the potential use of navitoclax and IL-6 
+(interleukin-6) inhibitors to prevent irreversible cardiomyocyte fibrosis and 
+ongoing vascular damage. In conclusion, RIHD is a multifaceted disease involving 
+complex biological processes and signaling pathways. Early intervention and 
+targeted therapies are crucial for improving patient outcomes. Future research 
+should prioritize uncovering the molecular mechanisms of RIHD and developing 
+more effective therapeutic strategies.
+
+DOI: 10.1161/JAHA.124.040937
+PMCID: PMC12184584
+PMID: 40357679 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+5. J Ethnopharmacol. 2025 May 12;347:119741. doi: 10.1016/j.jep.2025.119741. Epub
+ 2025 Apr 10.
+
+Xin-shu-bao tablets ameliorates ventricular remodeling against HFrEF via 
+PPARγ/MFGE8 pathway based on MALDI-MSI and lipidomics.
+
+Zhang F(1), Li Z(2), Zhang Y(1), Yang J(1), Xiao H(1), Li X(3), Yang H(4).
+
+Author information:
+(1)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China.
+(2)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China; Chinese Pharmacology 
+College, Changchun University of Chinese Medicine, Changchun, Jilin, 130117, 
+China.
+(3)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China. Electronic address: 
+phd_xianyuli@foxmail.com.
+(4)Beijing Key Laboratory of Traditional Chinese Medicine Basic Research on 
+Prevention and Treatment for Major Diseases, Experimental Research Center, China 
+Academy of Chinese Medical Sciences, Beijing, China; State Key Laboratory for 
+Quality Ensurance and Sustainable Use of Dao-di Herbs, China Academy of Chinese 
+Medical Sciences, Beijing, 100700, China. Electronic address: 
+hongjun0420@vip.sina.com.
+
+ETHNOPHARMACOLOGICAL RELEVANCE: Xin-shu-bao tablets (XSB), a traditional Chinese 
+medicine widely prescribed in China, have received approval for its role in 
+enhancing cardiac function in coronary heart disease patients. Lipid metabolism 
+plays a critical role in the onset and progression of ventricular remodeling in 
+heart failure with reduced ejection fraction (HFrEF). However, the 
+pharmacological mechanisms through which XSB influences lipid metabolism in the 
+context of ventricular remodeling with HFrEF have yet to be elucidated.
+AIM OF THE STUDY: The aim of the present study was to explore the potential of 
+XSB as an inhibitor of ventricular remodeling in patients with HFrEF and to 
+uncover the mechanisms by which XSB exerts myocardial protection via lipid 
+metabolism.
+MATERIALS AND METHODS: To investigate the cardioprotective effects of XSB on 
+HFrEF following myocardial infarction (MI), a murine model of MI generated by 
+ligating the left anterior descending artery. The myocardial protective effects 
+of XSB were evaluated through histological analysis of cardiac tissue and 
+quantification of serum biomarkers associated with myocardial injury. Cardiac 
+fibrosis was assessed using Masson's trichrome staining and Western blot 
+analysis. Apoptosis, efferocytosis, and inflammation were measured through TUNEL 
+staining, WB, and q-PCR in myocardial tissues. Differentially expressed 
+metabolites in the myocardium were identified using MALDI-MSI and lipidomics 
+analysis. Additionally, the involvement of the PPARγ/MFGE8 pathway in the 
+cardioprotective effects of XSB was explored using Western blot validation in 
+heart tissues. These approaches collectively aimed to elucidate the underlying 
+mechanisms by which XSB exerts its cardioprotective effects, particularly 
+through lipid metabolism.
+RESULTS: Our findings demonstrated that treatment with XSB significantly 
+attenuated structural and functional cardiac impairments, as indicated by 
+improvements in cardiac function and reductions in apoptosis, efferocytosis, 
+inflammation, and cardiac fibrosis in myocardial tissues. Specifically, XSB 
+markedly decreased the levels of pro-inflammatory cytokines, such as IL-6, 
+IL-10, and TNF-α. Additionally, XSB downregulated the expression of 
+apoptosis-related proteins BAX and Caspase-3, while increasing the expression of 
+the anti-apoptotic protein Bcl-2. Metabolomic analyses using MALDI-MSI and 
+lipidomics revealed that XSB suppressed the elevated levels of glycerol 
+phospholipids, such as PC(16:1e_22:5), PI(18:0_20:4), PI(18:2_20:4), 
+PC(16:0e_22:4), LPS(18:0), PI(16:0_18:2), PC(19:0_22:6), and PS(18:1_22:6) in 
+myocardial tissues. Furthermore, XSB modulated the expression of key proteins 
+associated with lipid metabolism, including upregulation of PPARγ and SLC27A1, 
+and downregulation of MFGE8, MERTK, and GSN. These results suggest that XSB 
+exerts its cardioprotective effects through modulation of lipid metabolism and 
+related signaling pathways.
+CONCLUSIONS: XSB demonstrate cardioprotective effects by improving cardiac 
+function and modulating ventricular remodeling processes in mice with HFrEF. 
+These processes involve attenuation of inflammation, apoptosis, efferocytosis, 
+and cardiac fibrosis. The cardioprotective mechanisms of XSB are mediated 
+through the regulation of lipid metabolism via the PPARγ/MFGE8 signaling 
+pathway.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jep.2025.119741
+PMID: 40216048 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+=== Gene: TYK2 ===
+No results found.
+
+
